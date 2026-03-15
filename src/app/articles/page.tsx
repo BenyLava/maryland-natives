@@ -1,10 +1,12 @@
 import Link from "next/link";
 import { getAllArticles } from "@/lib/articles";
 
+const FEATURED_ARTICLE_SLUG = "why-plant-native-trees";
+
 export default function ArticlesPage() {
   const articles = getAllArticles();
-  const feature = articles[0];
-  const rest = articles.slice(1);
+  const feature = articles.find((a) => a.slug === FEATURED_ARTICLE_SLUG) ?? articles[0];
+  const rest = articles.filter((a) => a.slug !== feature.slug);
 
   return (
     <div className="space-y-8">

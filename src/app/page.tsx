@@ -1,5 +1,8 @@
 import Link from "next/link";
+import { getAllArticles } from "@/lib/articles";
 import { getAllTrees } from "@/lib/trees";
+
+const FEATURED_ARTICLE_SLUG = "why-plant-native-trees";
 
 function shuffleAndTake<T>(array: T[], count: number): T[] {
   const copy = [...array];
@@ -10,27 +13,13 @@ function shuffleAndTake<T>(array: T[], count: number): T[] {
   return copy.slice(0, count);
 }
 
-const latestArticles = [
-  {
-    title: "How to Read a Tree Ring Story",
-    category: "Articles",
-    slug: "everyday-trees",
-  },
-  {
-    title: "Beginner’s Guide to Identifying Bark",
-    category: "Articles",
-    slug: "identification-checklist",
-  },
-  {
-    title: "Shade, Shelter, and Soil: Why Trees Matter",
-    category: "Articles",
-    slug: "urban-street-trees",
-  },
-];
-
 export default function Home() {
   const allTrees = getAllTrees();
   const featuredTrees = shuffleAndTake(allTrees, 4);
+
+  const allArticles = getAllArticles();
+  const featuredArticle = allArticles.find((a) => a.slug === FEATURED_ARTICLE_SLUG);
+  const moreArticles = allArticles.filter((a) => a.slug !== FEATURED_ARTICLE_SLUG);
 
   return (
     <div className="space-y-12">
@@ -102,11 +91,11 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Latest Articles */}
+      {/* Featured Article */}
       <section className="space-y-4">
         <div className="flex items-baseline justify-between gap-4">
           <h2 className="text-lg font-semibold tracking-tight">
-            Latest Articles
+            Featured Article
           </h2>
           <Link
             href="/articles"
@@ -115,22 +104,42 @@ export default function Home() {
             View all articles
           </Link>
         </div>
-        <div className="divide-y divide-neutral-300 rounded-xl border border-neutral-300 bg-[#E6E5A3]">
-          {latestArticles.map((article) => (
-            <Link
-              key={article.slug}
-              href={`/articles/${article.slug}`}
-              className="block p-4 hover:bg-[#d9d886]"
-            >
-              <p className="text-[11px] font-semibold uppercase tracking-[0.18em] text-neutral-500">
-                {article.category}
+        {featuredArticle && (
+          <Link
+            href={`/articles/${featuredArticle.slug}`}
+            className="block rounded-xl border border-neutral-300 bg-[#E6E5A3] p-6 shadow-sm hover:bg-[#d9d886] hover:border-neutral-400"
+          >
+            <p className="text-[11px] font-semibold uppercase tracking-[0.18em] text-emerald-700">
+              {featuredArticle.category}
+            </p>
+            <h3 className="mt-2 text-xl font-semibold leading-snug text-neutral-900">
+              {featuredArticle.title}
+            </h3>
+            {featuredArticle.readTime && (
+              <p className="mt-2 text-xs text-neutral-600">
+                {featuredArticle.readTime}
               </p>
-              <h3 className="mt-1 text-sm font-semibold text-neutral-900">
-                {article.title}
-              </h3>
-            </Link>
-          ))}
-        </div>
+            )}
+          </Link>
+        )}
+        {moreArticles.length > 0 && (
+          <div className="divide-y divide-neutral-300 rounded-xl border border-neutral-300 bg-[#E6E5A3]">
+            {moreArticles.map((article) => (
+              <Link
+                key={article.slug}
+                href={`/articles/${article.slug}`}
+                className="block p-4 hover:bg-[#d9d886]"
+              >
+                <p className="text-[11px] font-semibold uppercase tracking-[0.18em] text-neutral-500">
+                  {article.category}
+                </p>
+                <h3 className="mt-1 text-sm font-semibold text-neutral-900">
+                  {article.title}
+                </h3>
+              </Link>
+            ))}
+          </div>
+        )}
       </section>
     </div>
   );
