@@ -17,6 +17,9 @@ export const metadata: Metadata = {
   title: "Maryland Natives - Tree Guides & Articles",
   description:
     "Explore native trees and plants of Maryland. Tree catalog, articles, and guides.",
+  icons: {
+    icon: "/oak-leaf-logo.svg",
+  },
 };
 
 export default function RootLayout({
