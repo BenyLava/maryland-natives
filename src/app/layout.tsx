@@ -18,7 +18,10 @@ export const metadata: Metadata = {
   description:
     "Explore native trees and plants of Maryland. Tree catalog, articles, and guides.",
   icons: {
-    icon: "/oak-leaf-logo.svg",
+    icon: [
+      { url: "/favicon.ico", sizes: "any" },
+      { url: "/oak-leaf-logo.svg", type: "image/svg+xml" },
+    ],
   },
 };
 
