@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 145">
+  <!-- Stem -->
+  <line x1="50" y1="142" x2="50" y2="124" stroke="black" stroke-width="4" stroke-linecap="round"/>
+  <!-- White oak leaf: 7 rounded lobes, white fill, bold black outline -->
+  <path d="
+    M 50 122
+    C 52 120 54 118 57 115
+    C 63 111 74 105 73 104
+    C 72 103 64 98 61 91
+    C 60 87 74 82 80 77
+    C 82 73 75 66 67 62
+    C 67 58 82 52 88 46
+    C 89 43 80 36 72 31
+    C 71 27 78 23 79 20
+    C 80 17 73 13 65 11
+    C 60 9 55 8 50 8
+    C 45 8 40 9 35 11
+    C 27 13 20 17 21 20
+    C 22 23 29 27 28 31
+    C 27 36 18 43 12 46
+    C 11 49 24 56 33 62
+    C 35 66 28 73 20 77
+    C 18 82 32 87 39 91
+    C 36 98 28 103 27 104
+    C 26 105 37 111 43 115
+    C 46 118 48 120 50 122
+    Z
+  " fill="white" stroke="black" stroke-width="4" stroke-linejoin="round"/>
+</svg>

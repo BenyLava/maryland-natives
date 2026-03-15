@@ -1,65 +1,146 @@
-import Image from "next/image";
+import Link from "next/link";
+
+const featuredGuides = [
+  {
+    category: "Tree Guides",
+    title: "10 Iconic Trees to Learn First",
+    description:
+      "A beginner-friendly set of species you can recognize in nearly any temperate forest.",
+  },
+  {
+    category: "Urban Trees",
+    title: "Best Street Trees for Small Yards",
+    description:
+      "Compact, hardy trees that bring shade and character to tight city spaces.",
+  },
+  {
+    category: "Evergreens",
+    title: "Evergreen vs. Deciduous: What Really Matters",
+    description:
+      "Understand foliage, growth habits, and where each type thrives.",
+  },
+];
+
+const latestArticles = [
+  {
+    title: "How to Read a Tree Ring Story",
+    category: "Articles",
+    slug: "everyday-trees",
+  },
+  {
+    title: "Beginner’s Guide to Identifying Bark",
+    category: "Articles",
+    slug: "identification-checklist",
+  },
+  {
+    title: "Shade, Shelter, and Soil: Why Trees Matter",
+    category: "Articles",
+    slug: "urban-street-trees",
+  },
+];
 
 export default function Home() {
   return (
-    <div className="flex min-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex min-h-screen w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.tsx file.
+    <div className="space-y-12">
+      {/* Hero */}
+      <section className="space-y-6">
+        <div className="space-y-6">
+          <h1 className="text-3xl font-semibold tracking-tight text-neutral-900 sm:text-4xl md:text-5xl">
+            Simple guides to the trees you see every day.
           </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
+          <p className="max-w-xl text-base leading-relaxed text-neutral-600">
+            Maryland Natives is your guide to native trees of Maryland—explore
+            the catalog, learn species, and read articles about the state&apos;s
+            canopy.
           </p>
+          <div className="flex flex-wrap gap-3 text-sm font-medium">
+            <Link
+              href="/trees"
+              className="inline-flex items-center rounded-full bg-emerald-600 px-5 py-2 text-white shadow-sm transition hover:bg-emerald-700"
+            >
+              Browse tree catalog
+            </Link>
+            <Link
+              href="/articles"
+              className="inline-flex items-center rounded-full border border-neutral-300 px-5 py-2 text-neutral-800 hover:bg-neutral-100"
+            >
+              Read tree articles
+            </Link>
+          </div>
         </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
+      </section>
+
+      {/* Featured Posts */}
+      <section className="space-y-4">
+        <div className="flex items-baseline justify-between gap-4">
+          <h2 className="text-lg font-semibold tracking-tight">
+            Featured Guides
+          </h2>
+          <Link
+            href="/trees"
+            className="text-xs font-medium text-emerald-700 hover:text-emerald-800"
           >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
+            View all trees
+          </Link>
         </div>
-      </main>
+        <div className="grid gap-4 md:grid-cols-3">
+          {featuredGuides.map((guide) => (
+            <article
+              key={guide.title}
+              className="flex flex-col justify-between rounded-xl border border-neutral-300 bg-[#E6E5A3] p-4 shadow-sm"
+            >
+              <div className="space-y-2">
+                <p className="text-[11px] font-semibold uppercase tracking-[0.18em] text-emerald-700">
+                  {guide.category}
+                </p>
+                <h3 className="text-sm font-semibold leading-snug text-neutral-900">
+                  {guide.title}
+                </h3>
+                <p className="text-xs leading-relaxed text-neutral-600">
+                  {guide.description}
+                </p>
+              </div>
+              <Link
+                href="/trees"
+                className="mt-3 text-xs font-medium text-emerald-700 hover:text-emerald-800"
+              >
+                Explore related trees →
+              </Link>
+            </article>
+          ))}
+        </div>
+      </section>
+
+      {/* Latest Articles */}
+      <section className="space-y-4">
+        <div className="flex items-baseline justify-between gap-4">
+          <h2 className="text-lg font-semibold tracking-tight">
+            Latest Articles
+          </h2>
+          <Link
+            href="/articles"
+            className="text-xs font-medium text-emerald-700 hover:text-emerald-800"
+          >
+            View all articles
+          </Link>
+        </div>
+        <div className="divide-y divide-neutral-300 rounded-xl border border-neutral-300 bg-[#E6E5A3]">
+          {latestArticles.map((article) => (
+            <Link
+              key={article.slug}
+              href={`/articles/${article.slug}`}
+              className="block p-4 hover:bg-[#d9d886]"
+            >
+              <p className="text-[11px] font-semibold uppercase tracking-[0.18em] text-neutral-500">
+                {article.category}
+              </p>
+              <h3 className="mt-1 text-sm font-semibold text-neutral-900">
+                {article.title}
+              </h3>
+            </Link>
+          ))}
+        </div>
+      </section>
     </div>
   );
 }
