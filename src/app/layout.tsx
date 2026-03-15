@@ -1,16 +1,14 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import { Figtree } from "next/font/google";
+import { Analytics } from "@vercel/analytics/next";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 import Header from "@/components/Header";
 import "./globals.css";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
+const figtree = Figtree({
+  variable: "--font-figtree",
   subsets: ["latin"],
-});
-
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
+  weight: ["400", "500", "600", "700"],
 });
 
 export const metadata: Metadata = {
@@ -33,7 +31,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased text-neutral-900`}
+        className={`${figtree.variable} font-sans antialiased text-neutral-900`}
       >
         <div className="min-h-screen flex flex-col bg-[#E6E5A3]">
           <Header />
@@ -44,11 +42,13 @@ export default function RootLayout({
           </main>
           <footer className="border-t border-[#9a8763] bg-[#B09B71] py-6 text-xs text-emerald-50">
             <div className="mx-auto flex max-w-6xl items-center justify-between px-4 sm:px-6 lg:px-8">
-              <span>© {new Date().getFullYear()} Maryland Natives.</span>
+              <span>© {new Date().getFullYear()} Maryland Natives. Designed by Ben O</span>
               <span>Inspired by nature and trees everywhere.</span>
             </div>
           </footer>
         </div>
+        <Analytics />
+        <SpeedInsights />
       </body>
     </html>
   );

@@ -14,9 +14,11 @@ export default function TreesPage() {
           Explore different tree species.
         </h1>
         <p className="max-w-2xl text-sm text-neutral-600">
-          A small, hand-picked catalog of trees from around the world. Use it
-          as a starting point for learning the shapes, leaves, and regions of
-          common species.
+          Every tree in this catalog is a certified native of Maryland. These
+          species are well suited to local conditions and support local
+          wildlife—from birds and pollinators to mammals. If a tree you know
+          isn’t listed here, that doesn’t mean it isn’t a Maryland native; this
+          list is a curated selection, not a complete inventory.
         </p>
       </header>
 
@@ -44,11 +46,6 @@ export default function TreesPage() {
           </Link>
         ))}
       </div>
-
-      <p className="text-xs text-neutral-500">
-        This catalog is intentionally lightweight. You can extend it later with
-        photos, seasonal notes, and links to in-depth articles.
-      </p>
     </div>
   );
 }
