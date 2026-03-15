@@ -57,7 +57,7 @@ export default async function ArticlePage({ params }: PageProps) {
     <div className="space-y-6">
       <header className="space-y-2">
         <h1 className="text-2xl font-semibold tracking-tight text-neutral-900">
-          {metaTitle || params.slug}
+          {metaTitle || slug}
         </h1>
       </header>
 
