@@ -27,3 +27,14 @@ body {
 h2 {
   color: #171717;
 }
+
+/* Darken smaller-sized neutral text for better readability */
+.text-xs.text-neutral-500,
+.text-xs.text-neutral-600 {
+  color: #404040;
+}
+
+.text-sm.text-neutral-500,
+.text-sm.text-neutral-600 {
+  color: #404040;
+}

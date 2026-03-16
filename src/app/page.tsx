@@ -47,6 +47,12 @@ export default function Home() {
               >
                 Browse tree catalog
               </Link>
+              <Link
+                href="/quiz"
+                className="-mt-[10px] inline-flex items-center rounded-full border border-white/80 bg-white/10 px-5 py-2 text-white backdrop-blur-sm shadow-sm transition hover:bg-white/20"
+              >
+                Take tree quiz
+              </Link>
             </div>
           </div>
         </div>
