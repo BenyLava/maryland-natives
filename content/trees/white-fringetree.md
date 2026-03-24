@@ -4,7 +4,7 @@ latinName: "Chionanthus virginicus"
 type: "Deciduous"
 height: "15–30 ft"
 region: "Southeastern U.S.; Maryland woods and stream margins"
-sun: "part sun"
+sun: "full sun"
 ---
 White Fringetree (Chionanthus virginicus) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 

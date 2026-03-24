@@ -4,7 +4,7 @@ latinName: "Morus rubra"
 type: "Deciduous"
 height: "30–60 ft"
 region: "Eastern North America; Maryland rich woods and edges"
-sun: "part sun"
+sun: "full sun"
 ---
 Red Mulberry (Morus rubra) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 

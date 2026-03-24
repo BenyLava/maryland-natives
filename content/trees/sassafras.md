@@ -4,7 +4,7 @@ latinName: "Sassafras albidum"
 type: "Deciduous"
 height: "20–60 ft"
 region: "Eastern North America; common in Maryland thickets and woods"
-sun: "part sun"
+sun: "full sun"
 ---
 Sassafras (Sassafras albidum) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 

@@ -4,13 +4,13 @@
  */
 export const enrichments = {
   "american-beech": {
-    sun: "part sun",
+    sun: "full sun",
     habitat:
       "Rich, mesic forests across Maryland—often with sugar maple, oak, and tulip poplar on slopes and in cool valleys.",
     identification:
       "Smooth, steel-gray bark (often carved with initials in parks); long elliptical leaves with straight veins ending in teeth; long, narrow buds; papery marcescent leaves may cling on young trees through winter.",
     soil:
-      "Moist, well-drained, fertile loam; tolerates shade but grows best with some canopy opening. Avoid droughty, compacted urban pits.",
+      "Moist, well-drained, fertile loam; seedlings tolerate shade, but open-grown trees reach their best form in full sun. Avoid droughty, compacted urban pits.",
     wildlife:
       "Beech nuts feed mice, squirrels, bears, and many birds when crops are good; large trees provide nest sites and cavities.",
     uses:
@@ -43,13 +43,13 @@ export const enrichments = {
       "Classic shade and street tree with resistant selections; wood for baskets and veneer historically.",
   },
   "american-holly": {
-    sun: "part sun",
+    sun: "full sun",
     habitat:
-      "Acidic woods, coastal plain forests, and sandy pine barrens; common as an understory to midstory evergreen in Maryland.",
+      "Acidic woods, coastal plain forests, and sandy pine barrens; often seen as understory in the wild, but open-grown plants are common in landscapes and edges.",
     identification:
       "Spiny, leathery evergreen leaves; dioecious—females bear red berries with a pollenizer male nearby; gray, smoothish bark.",
     soil:
-      "Moist, acidic, organic-rich soils; tolerates some drought once established but not wet, alkaline clay.",
+      "Moist, acidic, organic-rich soils; tolerates some drought once established but not wet, alkaline clay. Full sun gives the densest habit and heaviest berry set; partial shade is tolerated where it also grows naturally.",
     wildlife:
       "Berries are critical winter food for many birds; dense foliage provides cover and nesting sites.",
     uses:
@@ -88,7 +88,7 @@ export const enrichments = {
     identification:
       "Strappy yellow autumn flowers with four narrow petals; broad leaves with uneven bases and wavy teeth; woody capsules eject seeds explosively.",
     soil:
-      "Moist, acidic, well-drained humus; tolerates shade—often grows as a large shrub or small tree.",
+      "Moist, acidic, well-drained humus; a true woodland understory plant—part sun or light shade matches where it thrives; full sun often stresses plants in warm exposures.",
     wildlife:
       "Late nectar for insects when little else blooms; seeds eaten by birds and small mammals.",
     uses:
@@ -160,7 +160,7 @@ export const enrichments = {
       "Erosion control and mine reclamation; rot-resistant posts; manage spread—can be aggressive outside native range.",
   },
   "black-maple": {
-    sun: "part sun",
+    sun: "full sun",
     habitat:
       "Rich coves and lower slopes, often mixed with sugar maple in western and central Maryland.",
     identification:
@@ -251,13 +251,13 @@ export const enrichments = {
       "Conservation plantings with disease-screened stock; carving wood; do not confuse edible prep with toxic look-alikes.",
   },
   "canadian-serviceberry": {
-    sun: "part sun",
+    sun: "full sun",
     habitat:
       "Wet thickets, stream edges, and low woods—often earlier blooming than downy serviceberry.",
     identification:
       "White early-spring flowers in clusters; edible June berries; smooth to lightly hairy young leaves depending on form.",
     soil:
-      "Moist to wet acidic soils; tolerates shade along woodland margins.",
+      "Moist to wet acidic soils; full sun improves flowering and fruit if the root zone stays moist—partial shade along margins still works.",
     wildlife:
       "Berries for catbirds, robins, and mammals; flowers for early pollinators.",
     uses:
@@ -277,7 +277,7 @@ export const enrichments = {
       "Timber and firewood; erosion control on steep slopes; iconic ridge-top canopy tree.",
   },
   "chinquapin": {
-    sun: "part sun",
+    sun: "full sun",
     habitat:
       "Dry oak-pine woods and sandy barrens; often a multi-stem shrub or small tree on poor soils.",
     identification:
@@ -316,13 +316,13 @@ export const enrichments = {
       "Tough street and park tree; quick shade; good for challenging urban heat islands.",
   },
   "common-serviceberry": {
-    sun: "part sun",
+    sun: "full sun",
     habitat:
       "Woodland edges, slopes, and openings statewide; one of the first understory trees to flower.",
     identification:
       "White racemes in early spring; oval leaves often hairy when young; striped bark on older trunks; sweet Juneberries.",
     soil:
-      "Moist, well-drained, acidic to neutral forest soils; tolerates partial shade.",
+      "Moist, well-drained, acidic to neutral forest soils; full sun gives the heaviest flower and berry crops with steady moisture—partial shade is tolerated.",
     wildlife:
       "Early nectar and pollen; berries for birds and mammals; host to several butterfly larvae.",
     uses:
@@ -357,11 +357,11 @@ export const enrichments = {
   "eastern-redbud": {
     sun: "part sun",
     habitat:
-      "Forest edges, rich slopes, and limestone soils; widely planted as an ornamental in Maryland.",
+      "Forest edges, rich slopes, and limestone soils; widely planted as an ornamental in Maryland, where summer heat and humidity make site choice important.",
     identification:
       "Magenta pea-flowers on bare wood in spring; heart-shaped leaves; flat brown pods persist into winter.",
     soil:
-      "Moist, well-drained soils; tolerates partial shade as an understory tree.",
+      "Moist, well-drained soils. More sun can mean a heavier spring flower show, but in hot Maryland summers exposed full-sun sites often mean more leaf scorch, drought stress, and shortened tree life—morning sun with afternoon shade, or high filtered light, is usually a better balance than blazing all-day sun.",
     wildlife:
       "Early nectar for bees; flowers visited by specialist bees; cover when multi-stemmed.",
     uses:
@@ -387,7 +387,7 @@ export const enrichments = {
     identification:
       "Showy white or pink bracts around tiny flower clusters; opposite leaves with curved veins; red fall foliage and berries.",
     soil:
-      "Well-drained, acidic, humus-rich; avoid hot afternoon-only exposures and root disturbance.",
+      "Well-drained, acidic, humus-rich; avoid hot afternoon-only exposures and root disturbance. Listed as part sun because it succeeds with morning sun or high canopy-filtered light and often struggles under harsh all-day heat.",
     wildlife:
       "Berries for migrating thrushes; spring nectar and pollen; supports many moth larvae.",
     uses:
@@ -472,7 +472,7 @@ export const enrichments = {
       "Valuable timber; reliable large shade tree; good for reforesting sunny old fields.",
   },
   "overcup-oak": {
-    sun: "part sun",
+    sun: "full sun",
     habitat:
       "Seasonally flooded bottomlands and coastal plain swamps; acorns often nearly enclosed by the cup.",
     identification:
@@ -576,7 +576,7 @@ export const enrichments = {
       "Fast shade; wet-site stabilization; brilliant fall color selections in trade.",
   },
   "red-mulberry": {
-    sun: "part sun",
+    sun: "full sun",
     habitat:
       "Rich woods, fencerows, and floodplain edges; less aggressive than invasive white mulberry where both occur.",
     identification:
@@ -654,7 +654,7 @@ export const enrichments = {
       "Quick riparian cover; not ideal near buildings due to limb breakage—prune for structure.",
   },
   "slippery-elm": {
-    sun: "part sun",
+    sun: "full sun",
     habitat:
       "Rich slopes and stream terraces; less common than American elm in many areas today.",
     identification:
@@ -686,7 +686,7 @@ export const enrichments = {
     identification:
       "Drooping clusters of white lily-of-the-valley-like flowers; sour-tasting leaves; brilliant red fall foliage.",
     soil:
-      "Moist, acidic, well-drained; intolerant of high pH and compaction.",
+      "Moist, acidic, well-drained; intolerant of high pH and compaction. Part sun or high canopy light limits summer leaf scorch on exposed sites.",
     wildlife:
       "Exceptional late-summer nectar for bees (sourwood honey); seeds for birds.",
     uses:
@@ -719,7 +719,7 @@ export const enrichments = {
       "Erosion control on cuts; naturalistic colonies—give room to spread.",
   },
   "sugar-maple": {
-    sun: "part sun",
+    sun: "full sun",
     habitat:
       "Cool northern slopes and rich coves—common in western Maryland hardwood forests.",
     identification:
@@ -732,13 +732,13 @@ export const enrichments = {
       "Shade and syrup production; high-value timber; avoid hot dry urban islands without irrigation.",
   },
   "sweetbay": {
-    sun: "part sun",
+    sun: "full sun",
     habitat:
       "Acidic wetlands and bay forests on the coastal plain; evergreen to semi-evergreen toward the south.",
     identification:
       "Aromatic leaves white beneath; creamy cupped flowers in late spring to summer; multi-stem habit common.",
     soil:
-      "Moist to wet acidic soils; tolerates some shade in swamp edges.",
+      "Moist to wet acidic soils; full sun is fine where the root zone never dries—some afternoon shade helps on the hottest, drier microsites.",
     wildlife:
       "Beetles and bees pollinate flowers; seeds used by songbirds.",
     uses:
@@ -784,7 +784,7 @@ export const enrichments = {
       "Street tree selections available; wetland mitigation; wildlife oak plantings.",
   },
   "sassafras": {
-    sun: "part sun",
+    sun: "full sun",
     habitat:
       "Old fields, edges, and sandy pine woods; root-suckering thickets common.",
     identification:
@@ -836,7 +836,7 @@ export const enrichments = {
       "Tool handles and baseball bats historically; prioritize EAB-tolerant selections or substitute species in new plantings.",
   },
   "white-fringetree": {
-    sun: "part sun",
+    sun: "full sun",
     habitat:
       "Stream bluffs, limestone glades, and moist woods edges in warmer Maryland counties.",
     identification:
@@ -888,7 +888,7 @@ export const enrichments = {
       "Slope stabilization; native mass planting for fall color.",
   },
   "yellow-buckeye": {
-    sun: "part sun",
+    sun: "full sun",
     habitat:
       "Cove hardwoods and rich mountain slopes—Maryland’s native large buckeye in cooler counties.",
     identification:

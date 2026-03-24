@@ -4,9 +4,9 @@ latinName: "Amelanchier canadensis"
 type: "Deciduous"
 height: "15–30 ft"
 region: "Eastern North America; Maryland wetlands and thickets"
-sun: "part sun"
+sun: "full sun"
 ---
-Canadian Serviceberry (Shadblow, Shadbush, Shadwood) (Amelanchier canadensis) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
+Canadian Serviceberry (Amelanchier canadensis) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
@@ -18,7 +18,7 @@ White early-spring flowers in clusters; edible June berries; smooth to lightly h
 
 ## Soil and moisture
 
-Moist to wet acidic soils; tolerates shade along woodland margins.
+Moist to wet acidic soils; full sun improves flowering and fruit if the root zone stays moist—partial shade along margins still works.
 
 ## Wildlife value
 

@@ -4,7 +4,7 @@ latinName: "Castanea pumila"
 type: "Deciduous"
 height: "10–30 ft"
 region: "Eastern United States; Maryland dry woods and ridges"
-sun: "part sun"
+sun: "full sun"
 ---
 Chinquapin (Castanea pumila) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 

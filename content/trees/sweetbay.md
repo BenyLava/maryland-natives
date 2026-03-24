@@ -4,7 +4,7 @@ latinName: "Magnolia virginiana"
 type: "Deciduous to semi-evergreen"
 height: "20–60 ft"
 region: "Southeastern U.S.; Maryland coastal plain wetlands"
-sun: "part sun"
+sun: "full sun"
 ---
 Sweetbay (Magnolia virginiana) is a native tree in Maryland (Deciduous to semi-evergreen). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
@@ -18,7 +18,7 @@ Aromatic leaves white beneath; creamy cupped flowers in late spring to summer; m
 
 ## Soil and moisture
 
-Moist to wet acidic soils; tolerates some shade in swamp edges.
+Moist to wet acidic soils; full sun is fine where the root zone never dries—some afternoon shade helps on the hottest, drier microsites.
 
 ## Wildlife value
 

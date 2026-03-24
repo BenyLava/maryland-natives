@@ -6,7 +6,7 @@ height: "60–115 ft"
 region: "Eastern North America; Maryland floodplains and streets"
 sun: "full sun"
 ---
-American Elm (White Elm) (Ulmus americana) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
+American Elm (Ulmus americana) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 

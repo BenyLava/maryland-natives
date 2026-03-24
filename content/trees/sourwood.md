@@ -18,7 +18,7 @@ Drooping clusters of white lily-of-the-valley-like flowers; sour-tasting leaves;
 
 ## Soil and moisture
 
-Moist, acidic, well-drained; intolerant of high pH and compaction.
+Moist, acidic, well-drained; intolerant of high pH and compaction. Part sun or high canopy light limits summer leaf scorch on exposed sites.
 
 ## Wildlife value
 

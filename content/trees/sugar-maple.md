@@ -4,7 +4,7 @@ latinName: "Acer saccharum"
 type: "Deciduous"
 height: "65–115 ft"
 region: "Eastern North America; Maryland cool slopes and rich woods"
-sun: "part sun"
+sun: "full sun"
 ---
 Sugar Maple (Acer saccharum) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 

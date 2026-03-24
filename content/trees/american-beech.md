@@ -4,7 +4,7 @@ latinName: "Fagus grandifolia"
 type: "Deciduous"
 height: "60–100 ft"
 region: "Eastern North America; widespread in Maryland forests"
-sun: "part sun"
+sun: "full sun"
 ---
 American Beech (Fagus grandifolia) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
@@ -18,7 +18,7 @@ Smooth, steel-gray bark (often carved with initials in parks); long elliptical l
 
 ## Soil and moisture
 
-Moist, well-drained, fertile loam; tolerates shade but grows best with some canopy opening. Avoid droughty, compacted urban pits.
+Moist, well-drained, fertile loam; seedlings tolerate shade, but open-grown trees reach their best form in full sun. Avoid droughty, compacted urban pits.
 
 ## Wildlife value
 

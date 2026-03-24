@@ -4,7 +4,7 @@ latinName: "Aesculus flava"
 type: "Deciduous"
 height: "50–80 ft"
 region: "Appalachians and eastern U.S.; Maryland mountains and piedmont"
-sun: "part sun"
+sun: "full sun"
 ---
 Yellow Buckeye (Aesculus flava) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 

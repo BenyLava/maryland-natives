@@ -4,7 +4,7 @@ latinName: "Amelanchier arborea"
 type: "Deciduous"
 height: "15–40 ft"
 region: "Eastern North America; Maryland woods and edges"
-sun: "part sun"
+sun: "full sun"
 ---
 Common Serviceberry (Amelanchier arborea) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
@@ -18,7 +18,7 @@ White racemes in early spring; oval leaves often hairy when young; striped bark 
 
 ## Soil and moisture
 
-Moist, well-drained, acidic to neutral forest soils; tolerates partial shade.
+Moist, well-drained, acidic to neutral forest soils; full sun gives the heaviest flower and berry crops with steady moisture—partial shade is tolerated.
 
 ## Wildlife value
 

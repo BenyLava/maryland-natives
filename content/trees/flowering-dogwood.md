@@ -18,7 +18,7 @@ Showy white or pink bracts around tiny flower clusters; opposite leaves with cur
 
 ## Soil and moisture
 
-Well-drained, acidic, humus-rich; avoid hot afternoon-only exposures and root disturbance.
+Well-drained, acidic, humus-rich; avoid hot afternoon-only exposures and root disturbance. Listed as part sun because it succeeds with morning sun or high canopy-filtered light and often struggles under harsh all-day heat.
 
 ## Wildlife value
 

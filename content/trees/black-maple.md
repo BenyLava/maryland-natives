@@ -4,7 +4,7 @@ latinName: "Acer nigrum"
 type: "Deciduous"
 height: "65–100 ft"
 region: "Eastern North America; Maryland rich woods, often with sugar maple"
-sun: "part sun"
+sun: "full sun"
 ---
 Black Maple (Acer nigrum) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 

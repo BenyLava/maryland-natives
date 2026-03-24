@@ -6,7 +6,7 @@ height: "40–70 ft"
 region: "Eastern North America; scattered in Maryland"
 sun: "full sun"
 ---
-Butternut (White Walnut) (Juglans cinerea) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
+Butternut(White Walnut) (Juglans cinerea) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 

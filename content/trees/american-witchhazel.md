@@ -18,7 +18,7 @@ Strappy yellow autumn flowers with four narrow petals; broad leaves with uneven 
 
 ## Soil and moisture
 
-Moist, acidic, well-drained humus; tolerates shade—often grows as a large shrub or small tree.
+Moist, acidic, well-drained humus; a true woodland understory plant—part sun or light shade matches where it thrives; full sun often stresses plants in warm exposures.
 
 ## Wildlife value
 

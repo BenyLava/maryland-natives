@@ -4,7 +4,7 @@ latinName: "Quercus lyrata"
 type: "Deciduous"
 height: "60–100 ft"
 region: "Southeastern U.S.; Maryland coastal plain wetlands"
-sun: "part sun"
+sun: "full sun"
 ---
 Overcup Oak (Quercus lyrata) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 

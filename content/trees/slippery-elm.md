@@ -4,7 +4,7 @@ latinName: "Ulmus rubra"
 type: "Deciduous"
 height: "40–70 ft"
 region: "Eastern North America; Maryland rich woods and slopes"
-sun: "part sun"
+sun: "full sun"
 ---
 Slippery Elm (Ulmus rubra) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
