@@ -30,6 +30,13 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4373786193338574"
+          crossOrigin="anonymous"
+        />
+      </head>
       <body
         className={`${figtree.variable} font-sans antialiased text-neutral-900`}
       >
