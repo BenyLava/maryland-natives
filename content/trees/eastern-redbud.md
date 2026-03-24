@@ -1,18 +1,29 @@
 ---
-title: 'Eastern Redbud'
-latinName: 'Cercis canadensis'
-type: 'Deciduous'
-height: '6–9 m'
-region: 'Eastern North America; native and common in Maryland'
+title: "Eastern Redbud"
+latinName: "Cercis canadensis"
+type: "Deciduous"
+height: "20â€“30 ft"
+region: "Eastern North America; native and common in Maryland"
+sun: "part sun"
 ---
-
-Eastern redbud is a small understory tree that covers its bare branches with bright pink to magenta flowers in early spring, before the leaves emerge. Heart-shaped leaves follow the bloom.
+Eastern Redbud (Cercis canadensis) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, redbud grows along forest edges, slopes, and roadsides, often in partial shade. It is also widely planted as an ornamental in yards and parks.
+Forest edges, rich slopes, and limestone soils; widely planted as an ornamental in Maryland.
+
+## Identification
+
+Magenta pea-flowers on bare wood in spring; heart-shaped leaves; flat brown pods persist into winter.
+
+## Soil and moisture
+
+Moist, well-drained soils; tolerates partial shade as an understory tree.
+
+## Wildlife value
+
+Early nectar for bees; flowers visited by specialist bees; cover when multi-stemmed.
 
 ## Uses and significance
 
-Redbud is valued for early spring color and wildlife benefits. Flowers provide nectar for pollinators, while seeds and shelter support birds and small mammals.
-
+Small ornamental tree; native alternative to many spring-flowering exotics.

@@ -1,18 +1,29 @@
 ---
-title: 'Red Maple'
-latinName: 'Acer rubrum'
-type: 'Deciduous'
-height: '12�21 m'
-region: 'Common throughout Maryland and eastern North America'
+title: "Red Maple"
+latinName: "Acer rubrum"
+type: "Deciduous"
+height: "40–70 ft"
+region: "Common throughout Maryland and eastern North America"
+sun: "full sun"
 ---
-
-Red maple is one of the most abundant and adaptable trees in Maryland. Its leaves often show red tints in spring and brilliant scarlet to orange in fall.
+Red Maple (Acer rubrum) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-Red maples grow in dry upland woods, wet lowlands, and along streams. Their tolerance for different soils makes them common in both natural forests and planted landscapes across the state.
+Swamps to dry slopes—one of Maryland’s most widespread trees due to plasticity and disturbance response.
+
+## Identification
+
+Opposite leaves with three to five lobes and red petioles; early red flowers in late winter; samaras in spring.
+
+## Soil and moisture
+
+Wet to moist preferred but tolerates droughty sand once established; pH flexible compared to some maples.
+
+## Wildlife value
+
+Early nectar for bees; seeds for birds; hollows in old trees for wildlife.
 
 ## Uses and significance
 
-Red maple is used for shade, ornamental plantings, and medium-grade lumber. Early spring flowers provide nectar for pollinators, and its seeds and buds feed wildlife.
-
+Fast shade; wet-site stabilization; brilliant fall color selections in trade.

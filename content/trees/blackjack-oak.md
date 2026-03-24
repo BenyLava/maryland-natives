@@ -2,16 +2,28 @@
 title: "Blackjack Oak"
 latinName: "Quercus marilandica"
 type: "Deciduous"
-height: "6–12 m"
+height: "20–40 ft"
 region: "Eastern and central U.S.; Maryland dry, poor soils"
+sun: "full sun"
 ---
-
-Blackjack oak is a small, often scrubby tree with thick, leathery leaves that have three broad lobes and a bell-shaped base. The bark is dark and blocky. It is typical of dry, fire-prone sites.
+Blackjack Oak (Quercus marilandica) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, blackjack oak grows on dry ridges, sandy or rocky soils, and in barrens and open woodlands. It is common on the coastal plain and in piedmont areas with poor, acidic soils.
+Dry barrens, sandy ridges, and poor uplands—more common toward Maryland’s southern coastal plain and piedmont edges.
+
+## Identification
+
+Broad, three-lobed leaves resembling a spatula; shrubby to small-tree form; dark scaly bark.
+
+## Soil and moisture
+
+Sandy, acidic, droughty; intolerant of shade and wet feet.
+
+## Wildlife value
+
+Small acorns still used by scrubland birds and mammals; supports adapted insect communities.
 
 ## Uses and significance
 
-The wood is used for fuel and charcoal. Blackjack oak is an important component of xeric woodlands and barrens and provides cover and acorns for wildlife in challenging sites where few other trees thrive.
+Sandhill and dry prairie restoration; tough ornamental where soils are impossible for other oaks.

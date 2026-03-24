@@ -2,16 +2,28 @@
 title: "Honeylocust"
 latinName: "Gleditsia triacanthos"
 type: "Deciduous"
-height: "20–30 m"
+height: "65–100 ft"
 region: "Eastern and central U.S.; Maryland floodplains and planted widely"
+sun: "full sun"
 ---
-
-Honeylocust is a large tree with compound leaves, often fierce thorns on the trunk and branches, and long, twisted pods with sweet pulp. Thornless varieties are common in landscaping.
+Honeylocust (Gleditsia triacanthos) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, honeylocust grows in floodplains, along streams, and in rich bottomlands. It is also widely planted along streets and in parks; many cultivated trees are thornless cultivars.
+Native to river corridors; many landscape trees are thornless, often fruitless cultivars derived from wild stock.
+
+## Identification
+
+Bipinnate leaves giving a delicate shade; large thorns and long pods on wild types; dark plated bark.
+
+## Soil and moisture
+
+Tolerates drought, alkalinity, and urban soils; deep rooting when given space.
+
+## Wildlife value
+
+Wild forms provide sweet pods for livestock and wildlife; thorns protect nests in dense thickets.
 
 ## Uses and significance
 
-The wood is used for posts and furniture. Pods are eaten by livestock and wildlife. Thornless honeylocust is a popular shade tree; wild trees provide habitat and the thorns offer protection for nesting birds.
+Street tree where cultivars match site; native genotype for floodplain restoration.

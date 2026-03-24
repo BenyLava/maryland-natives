@@ -2,16 +2,28 @@
 title: "Black Oak"
 latinName: "Quercus velutina"
 type: "Deciduous"
-height: "20–30 m"
+height: "65–100 ft"
 region: "Eastern North America; Maryland dry uplands and ridges"
+sun: "full sun"
 ---
-
-Black oak is a large tree with dark, deeply furrowed bark (inner bark orange-yellow), bristle-tipped leaf lobes, and acorns with a scaly cap. Fall color is often red or brown.
+Black Oak (Quercus velutina) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, black oak grows on dry ridges, slopes, and in upland woods, often with other oaks and hickories. It tolerates poor, dry, or acidic soils and is common in the state's drier forests.
+Dry ridges, barrens, and upland oak forests; common on thin soils in Maryland piedmont and mountains.
+
+## Identification
+
+Red oak group—bristle-tipped leaf lobes; dark blocky bark; acorns with inner hairs in the cup.
+
+## Soil and moisture
+
+Well-drained, acidic, often droughty; tolerates low fertility once established.
+
+## Wildlife value
+
+Acorns feed many species; rough bark supports lichens; cavities in old trees shelter wildlife.
 
 ## Uses and significance
 
-The wood is used for lumber, flooring, and railroad ties. Acorns are eaten by wildlife. Black oak was once a major source of tannin. It is an important component of oak-hickory and dry-site forests.
+Mixed hardwood timber; fire-adapted upland restoration; drought-tolerant shade where soils are lean.

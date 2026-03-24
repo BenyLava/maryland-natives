@@ -2,16 +2,28 @@
 title: "Willow Oak"
 latinName: "Quercus phellos"
 type: "Deciduous"
-height: "18–30 m"
+height: "60–100 ft"
 region: "Southeastern U.S.; Maryland coastal plain and planted widely"
+sun: "full sun"
 ---
-
-Willow oak has narrow, willow-like leaves (unlobed) and small acorns. It is a fast-growing oak with a rounded crown, widely planted in the Southeast for shade and street use.
+Willow Oak (Quercus phellos) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, willow oak grows in bottomlands, floodplains, and moist woods on the coastal plain, and is commonly planted in parks and along streets. It prefers moist, acidic soils.
+Lowland forests and river terraces on the coastal plain; widely planted as a street tree in the Mid-Atlantic.
+
+## Identification
+
+Willow-like entire leaves; red oak group acorns small and saucer-cupped; tall oval crown.
+
+## Soil and moisture
+
+Moist acidic soils; tolerates some compaction when irrigated during establishment.
+
+## Wildlife value
+
+Small acorns produced in quantity in good years; shade for urban birds.
 
 ## Uses and significance
 
-The wood is used for lumber and pulp. Willow oak is a popular landscape tree and provides acorns and habitat for wildlife. It is one of the most common oaks in southern Maryland's natural and planted landscapes.
+Large lawn and avenue tree; wetland edges; pair with soil volume for root health.

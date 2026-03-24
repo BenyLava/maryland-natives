@@ -2,16 +2,28 @@
 title: "Pumpkin Ash"
 latinName: "Fraxinus profunda"
 type: "Deciduous"
-height: "20–30 m"
+height: "65–100 ft"
 region: "Eastern United States; Maryland coastal plain swamps"
+sun: "full sun"
 ---
-
-Pumpkin ash is a large ash of deep swamps and floodplains, with a swollen, pumpkin-like base when growing in standing water. Leaves are compound with seven to nine leaflets.
+Pumpkin Ash (Fraxinus profunda) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, pumpkin ash is restricted to permanently wet sites on the coastal plain—forested wetlands, backwater sloughs, and floodplain swamps. It is less common than green or white ash.
+Deep swamps and river bottoms on the coastal plain—often with buttressed trunks in standing water.
+
+## Identification
+
+Large compound leaves with thick stalks; swollen trunk base in flooded sites; similar to other ashes when young.
+
+## Soil and moisture
+
+Saturated acidic mucks; not for dry upland plantings.
+
+## Wildlife value
+
+Wetland structure for herons, wood ducks, and amphibians; seeds used when produced.
 
 ## Uses and significance
 
-The wood is similar to other ashes but less commonly harvested due to wet-site access. The species is important in swamp ecosystems and is threatened by habitat loss and emerald ash borer.
+Wetland forest restoration; prioritize EAB-resistant planning—species is highly vulnerable.

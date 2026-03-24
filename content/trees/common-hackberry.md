@@ -2,16 +2,28 @@
 title: "Common Hackberry"
 latinName: "Celtis occidentalis"
 type: "Deciduous"
-height: "12–25 m"
+height: "40–80 ft"
 region: "Eastern and central North America; Maryland floodplains and uplands"
+sun: "full sun"
 ---
-
-Common hackberry is a medium to large tree with warty, corky bark and small, cherry-like fruits that persist into winter. Leaves are asymmetrical at the base and have toothed margins.
+Common Hackberry (Celtis occidentalis) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, hackberry grows in floodplains, along streams, and in rich upland woods. It tolerates a wide range of soils and is often found with elms, ashes, and sycamores in bottomlands.
+Floodplains, terraces, and limestone-influenced uplands; tolerant of heat and wind.
+
+## Identification
+
+Warty, corky bark; alternate asymmetrical leaves with toothed margins; small purple drupes relished by birds.
+
+## Soil and moisture
+
+Adaptable from moist river silts to fairly dry uplands; tolerates urban soils better than many natives.
+
+## Wildlife value
+
+Hackberry emperor and other butterflies use foliage; fruit is a bird magnet.
 
 ## Uses and significance
 
-The fruits are eaten by many birds and mammals. The wood is used for furniture and boxes. Hackberry is a tough, adaptable tree that provides food and shelter for wildlife and is sometimes planted in urban settings.
+Tough street and park tree; quick shade; good for challenging urban heat islands.

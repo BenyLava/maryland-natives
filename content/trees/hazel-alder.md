@@ -2,16 +2,28 @@
 title: "Hazel Alder"
 latinName: "Alnus serrulata"
 type: "Deciduous"
-height: "3–6 m"
+height: "10–20 ft"
 region: "Eastern North America; Maryland streams and wetlands"
+sun: "full sun"
 ---
-
-Hazel alder is a large shrub or small tree in the birch family, with smooth gray bark and finely toothed leaves. It often grows in dense thickets along streams and in wet soils.
+Hazel Alder (Alnus serrulata) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, hazel alder is common along streams, in wet woods, and in shrub swamps. It tolerates flooding and helps stabilize streambanks while fixing nitrogen in the soil.
+Shrubby thickets along streams, seeps, and headwater wetlands throughout much of Maryland.
+
+## Identification
+
+Toothed leaves with fine hairs; male catkins and woody cones on same plant; often forms dense clumps.
+
+## Soil and moisture
+
+Wet acidic soils; tolerates scouring and seasonal high water.
+
+## Wildlife value
+
+Cover for songbirds; catkins provide early pollen; fixes nitrogen improving riparian soils.
 
 ## Uses and significance
 
-The dense growth provides cover for wildlife and helps filter runoff. Catkins provide early spring food for birds, and the roots help prevent erosion along waterways.
+Streambank stabilization and wetland buffers; naturalistic screening in wet sun.

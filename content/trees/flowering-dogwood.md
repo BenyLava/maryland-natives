@@ -1,18 +1,29 @@
 ---
-title: 'Flowering Dogwood'
-latinName: 'Cornus florida'
-type: 'Deciduous'
-height: '6–10 m'
-region: 'Eastern North America; iconic in Maryland woodlands'
+title: "Flowering Dogwood"
+latinName: "Cornus florida"
+type: "Deciduous"
+height: "20â€“35 ft"
+region: "Eastern North America; iconic in Maryland woodlands"
+sun: "part sun"
 ---
-
-Flowering dogwood is a small tree known for its showy spring ''flowers''—actually large white or pink bracts surrounding a cluster of tiny true flowers. In fall, its leaves turn red and it bears bright red berries.
+Flowering Dogwood (Cornus florida) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-Dogwoods grow in forest understories, along edges, and in ravines throughout Maryland. They prefer well-drained, acidic soils and partial shade.
+Understory and edges of deciduous woods statewide; iconic in Maryland spring woodlands.
+
+## Identification
+
+Showy white or pink bracts around tiny flower clusters; opposite leaves with curved veins; red fall foliage and berries.
+
+## Soil and moisture
+
+Well-drained, acidic, humus-rich; avoid hot afternoon-only exposures and root disturbance.
+
+## Wildlife value
+
+Berries for migrating thrushes; spring nectar and pollen; supports many moth larvae.
 
 ## Uses and significance
 
-Flowering dogwood is a classic ornamental tree in Maryland landscapes. Its berries feed birds, and its four-bracted blooms are a familiar sign of spring in eastern woodlands.
-
+Premier small ornamental; choose disease-resistant cultivars where anthracnose and powdery mildew are issues.

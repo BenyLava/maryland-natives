@@ -2,16 +2,28 @@
 title: "Yellow Buckeye"
 latinName: "Aesculus flava"
 type: "Deciduous"
-height: "15–25 m"
+height: "50–80 ft"
 region: "Appalachians and eastern U.S.; Maryland mountains and piedmont"
+sun: "part sun"
 ---
-
-Yellow buckeye is a large tree with palmately compound leaves of five leaflets and upright clusters of yellow flowers in spring. The large, round seeds (buckeyes) are poisonous when raw.
+Yellow Buckeye (Aesculus flava) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, yellow buckeye is found in rich, moist coves and slopes, mainly in the western mountains and piedmont. It prefers cool, sheltered sites with deep, well-drained soil.
+Cove hardwoods and rich mountain slopes—Maryland’s native large buckeye in cooler counties.
+
+## Identification
+
+Palmately compound leaves with five leaflets; yellow flower panicles; smooth chestnut-like capsules—seeds toxic if eaten raw.
+
+## Soil and moisture
+
+Deep, moist, well-drained, fertile; intolerant of drought and salt.
+
+## Wildlife value
+
+Hummingbirds visit flowers; nuts used sparingly by rodents when accessible.
 
 ## Uses and significance
 
-The wood is soft and used for pulp and boxes. The tree is planted as an ornamental for its flowers and form. Buckeyes are not edible but are associated with folklore and good luck in many regions.
+Shade for large acidic lawns; spectacular flowers—keep fallen fruit away from pets and children.

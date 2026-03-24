@@ -2,16 +2,28 @@
 title: "Green Ash"
 latinName: "Fraxinus pennsylvanica"
 type: "Deciduous"
-height: "15–25 m"
+height: "50–80 ft"
 region: "Eastern North America; Maryland floodplains and wet woods"
+sun: "full sun"
 ---
-
-Green ash is a medium to large tree with compound leaves and gray, furrowed bark. It was one of the most widespread ashes before emerald ash borer devastated many populations.
+Green Ash (Fraxinus pennsylvanica) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, green ash grows in floodplains, along streams, and in wet bottomlands. It tolerates seasonal flooding and a range of soil moisture and is often found with other bottomland hardwoods.
+Floodplains, swamps, and river terraces—often alongside silver maple and sycamore.
+
+## Identification
+
+Opposite compound leaves with seven to nine stalked leaflets; gray furrowed bark; dioecious flowers before leaves.
+
+## Soil and moisture
+
+Tolerates wet soils and periodic inundation; also succeeds on moist uplands.
+
+## Wildlife value
+
+Seeds eaten by waterfowl and songbirds; foliage supports caterpillars when trees remain healthy.
 
 ## Uses and significance
 
-The wood is used for tool handles, furniture, and sports equipment. Seeds are eaten by birds and mammals. Many green ashes have been lost to emerald ash borer; surviving trees and resistant selections are important for restoration.
+Riparian restoration—use emerald ash borer–resistant selections or diversify species as EAB persists.

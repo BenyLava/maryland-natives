@@ -2,17 +2,28 @@
 title: "American Persimmon"
 latinName: "Diospyros virginiana"
 type: "Deciduous"
-height: "9–18 m"
+height: "30–60 ft"
 region: "Eastern United States; scattered in Maryland fields and woods"
+sun: "full sun"
 ---
-
-American persimmon is a small to medium tree with dark blocky bark and oval leaves. In late summer to fall it bears orange, plum‑sized fruits that are very astringent until fully ripe.
+American Persimmon (Diospyros virginiana) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, persimmons occur in old fields, fencerows, and open woods, often in dry or moderately moist soils. They are more common in the coastal plain and southern parts of the state.
+Old fields, woodland edges, and sandy roadsides; more common toward the warmer parts of Maryland.
+
+## Identification
+
+Blocky dark bark resembling alligator hide; oval leaves; dioecious—females bear orange sweet fruit when ripe.
+
+## Soil and moisture
+
+Tolerates poor, dry soils; taproot makes transplanting tricky—start small.
+
+## Wildlife value
+
+Fruit critical for mammals and many birds after frost; supports silk moth larvae.
 
 ## Uses and significance
 
-Fully ripe fruits are sweet and used in puddings, breads, and preserves. Wildlife eagerly eat the fallen fruit. The wood is extremely hard and dense, historically used for golf club heads and other specialty items.
-
+Edible fruit for people and wildlife; tough urban survivor; beautiful bark interest.

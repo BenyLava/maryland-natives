@@ -2,16 +2,28 @@
 title: "Silver Maple"
 latinName: "Acer saccharinum"
 type: "Deciduous"
-height: "18–30 m"
+height: "60–100 ft"
 region: "Eastern North America; Maryland floodplains and wet sites"
+sun: "full sun"
 ---
-
-Silver maple is a fast-growing tree with deeply lobed leaves that are silvery white underneath. Branches often grow at narrow angles and can be prone to breakage in ice and wind.
+Silver Maple (Acer saccharinum) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, silver maple grows in floodplains, along streams, and in wet bottomlands. It tolerates seasonal flooding and is often found with sycamore, cottonwood, and green ash.
+Floodplains and river bottoms; fast colonizer of disturbed wet ground.
+
+## Identification
+
+Deeply five-lobed leaves silvery beneath; large soft wood; winged samaras spin to earth in spring.
+
+## Soil and moisture
+
+Tolerates wet, heavy soils and occasional inundation; surface roots common—keep away from pavement.
+
+## Wildlife value
+
+Early spring flowers for bees; cavities in old trees for raccoons and owls.
 
 ## Uses and significance
 
-The wood is used for boxes, pulp, and sometimes lumber. Silver maple is widely planted for quick shade but can be brittle; it provides cavity sites for wildlife and is common in riparian forests.
+Quick riparian cover; not ideal near buildings due to limb breakage—prune for structure.

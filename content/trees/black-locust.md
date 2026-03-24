@@ -2,17 +2,28 @@
 title: "Black Locust"
 latinName: "Robinia pseudoacacia"
 type: "Deciduous"
-height: "12–24 m"
+height: "40–80 ft"
 region: "Native to Appalachians; naturalized and common in Maryland"
+sun: "full sun"
 ---
-
-Black locust is a medium tree with deeply furrowed bark, compound leaves, and fragrant white flower clusters in late spring. Sharp thorns often occur on young twigs.
+Black Locust (Robinia pseudoacacia) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, black locust is frequent in old fields, roadsides, and disturbed sites, especially on dry, rocky soils. It can spread aggressively by root suckers and seed.
+Native to Appalachian coves but widely naturalized on roadsides, old mines, and sunny waste ground in Maryland.
+
+## Identification
+
+Compound leaves with paired oval leaflets; hanging white fragrant racemes; thorns on saplings and some branches; rough furrowed bark.
+
+## Soil and moisture
+
+Thrives on poor, droughty, alkaline soils where little else establishes; fixes nitrogen with symbiotic bacteria.
+
+## Wildlife value
+
+Excellent spring nectar for bees; seeds sparingly used by birds; can form dense thickets for cover.
 
 ## Uses and significance
 
-The wood is extremely rot‑resistant and used for posts, rails, and outdoor structures. Flowers provide nectar for honeybees, and the tree is sometimes planted to stabilize poor soils.
-
+Erosion control and mine reclamation; rot-resistant posts; manage spread—can be aggressive outside native range.

@@ -2,16 +2,28 @@
 title: "Virginia Pine"
 latinName: "Pinus virginiana"
 type: "Evergreen"
-height: "9–18 m"
+height: "30–60 ft"
 region: "Eastern U.S.; Maryland dry uplands and old fields"
+sun: "full sun"
 ---
-
-Virginia pine is a small to medium pine with short, twisted needles in pairs and small cones. It often has a scraggly form and is quick to colonize abandoned fields and disturbed sites.
+Virginia Pine (Pinus virginiana) is a native tree in Maryland (Evergreen). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, Virginia pine grows on dry ridges, old fields, and poor soils across the state. It tolerates drought and acidic, infertile soils and is common in the piedmont and on the coastal plain.
+Old fields and dry ridges; scrappy pioneer pine before hardwood succession.
+
+## Identification
+
+Twisted paired needles; small cones; often irregular crown when open-grown.
+
+## Soil and moisture
+
+Poor, acidic, well-drained; tolerates drought and rocky sites.
+
+## Wildlife value
+
+Cover for early-succession birds; seeds for small mammals.
 
 ## Uses and significance
 
-The wood is used for pulp and lumber. Virginia pine provides cover for wildlife and is important in early successional and fire-adapted communities. It is sometimes grown for Christmas trees.
+Reclamation and Christmas trees; transition plantings toward oak-pine restoration.

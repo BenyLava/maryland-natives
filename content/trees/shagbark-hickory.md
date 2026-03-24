@@ -2,16 +2,28 @@
 title: "Shagbark Hickory"
 latinName: "Carya ovata"
 type: "Deciduous"
-height: "18–30 m"
+height: "60–100 ft"
 region: "Eastern North America; Maryland rich woods and slopes"
+sun: "full sun"
 ---
-
-Shagbark hickory is a large tree with distinctive bark that peels in long, vertical strips, and sweet, edible nuts. The leaves are compound with five (rarely seven) leaflets.
+Shagbark Hickory (Carya ovata) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, shagbark hickory grows in rich, moist to dry woods, on slopes, and in well-drained bottomlands. It is common in mixed hardwood forests across the state.
+Rich coves and mixed hardwood slopes; iconic shaggy bark visible at a distance.
+
+## Identification
+
+Five large leaflets; long plates of peeling bark; sweet nuts prized for baking and wildlife.
+
+## Soil and moisture
+
+Deep, moist, well-drained loam; long taproot—plant young.
+
+## Wildlife value
+
+High-energy nuts; bark plates shelter bats when loose; many caterpillar species.
 
 ## Uses and significance
 
-The wood is used for tool handles, furniture, and smoking. Nuts are prized by people and wildlife. Shagbark hickory is one of the most recognizable and valued native hickories for both timber and mast.
+Edible nuts; premium wood for smoking meats; stately park tree.

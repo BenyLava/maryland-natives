@@ -2,16 +2,28 @@
 title: "Sweetbay"
 latinName: "Magnolia virginiana"
 type: "Deciduous to semi-evergreen"
-height: "6–18 m"
+height: "20–60 ft"
 region: "Southeastern U.S.; Maryland coastal plain wetlands"
+sun: "part sun"
 ---
-
-Sweetbay is a small to medium magnolia with fragrant, creamy white flowers in summer and leaves that are silvery underneath. In the South it may retain leaves; in Maryland it is often deciduous.
+Sweetbay (Magnolia virginiana) is a native tree in Maryland (Deciduous to semi-evergreen). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, sweetbay grows in swamps, wet woods, and along streams on the coastal plain. It tolerates saturated soils and is often found with red maple, blackgum, and Atlantic white cedar.
+Acidic wetlands and bay forests on the coastal plain; evergreen to semi-evergreen toward the south.
+
+## Identification
+
+Aromatic leaves white beneath; creamy cupped flowers in late spring to summer; multi-stem habit common.
+
+## Soil and moisture
+
+Moist to wet acidic soils; tolerates some shade in swamp edges.
+
+## Wildlife value
+
+Beetles and bees pollinate flowers; seeds used by songbirds.
 
 ## Uses and significance
 
-The wood is used for veneer and lightweight construction. Sweetbay is planted as an ornamental for its flowers and fragrance. It provides habitat in wetland forests and supports pollinators.
+Native ornamental for rain gardens; evergreen interest in milder microclimates.

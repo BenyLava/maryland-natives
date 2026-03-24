@@ -2,17 +2,28 @@
 title: "Blackgum"
 latinName: "Nyssa sylvatica"
 type: "Deciduous"
-height: "12–21 m"
+height: "40–70 ft"
 region: "Eastern North America; common in Maryland wetlands and uplands"
+sun: "full sun"
 ---
-
-Blackgum, also called black tupelo, is known for its glossy leaves that turn brilliant shades of red, orange, and purple in fall. The crown tends to be irregular and often pyramidal when young, becoming more open with age.
+Blackgum (Nyssa sylvatica) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, blackgum grows in both moist bottomlands and drier upland woods. It tolerates periodic flooding as well as well‑drained slopes, making it common from coastal plain swamps to piedmont ridges.
+Swamps, pocosins, and moist flats as well as drier uplands—one of the most site-flexible eastern trees.
+
+## Identification
+
+Glossy leaves often with a few teeth near the tip; brilliant red fall color; blue-black drupes on female trees; horizontal branches.
+
+## Soil and moisture
+
+Tolerates wet acidic soils and seasonal flooding; also grows on well-drained sites.
+
+## Wildlife value
+
+Berries are high-energy food for migrating songbirds; hollow trunks used by denning wildlife.
 
 ## Uses and significance
 
-Blackgum fruits are an important food source for birds and other wildlife. The wood is tough and shock‑resistant, historically used for tool handles and applications where splitting resistance was important.
-
+Ornamental for fall color; honey plant; wetland and upland wildlife food plots.

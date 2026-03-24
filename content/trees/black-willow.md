@@ -2,16 +2,28 @@
 title: "Black Willow"
 latinName: "Salix nigra"
 type: "Deciduous"
-height: "9–21 m"
+height: "30–70 ft"
 region: "Eastern North America; Maryland streams and floodplains"
+sun: "full sun"
 ---
-
-Black willow is a medium to large tree with narrow leaves, dark, furrowed bark, and a broad, often multi-stemmed form. It grows quickly and is common along watercourses.
+Black Willow (Salix nigra) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, black willow grows along streams, rivers, and in floodplains and wet ditches. It tolerates flooding and is often the dominant tree on streambanks and in wet depressions.
+Streambanks, ditches, and wet depressions; often leaning over water with roots stabilizing banks.
+
+## Identification
+
+Long narrow leaves; brittle twigs; yellowish-brown furrowed bark; catkins appear with leaves in spring.
+
+## Soil and moisture
+
+Constantly moist to wet soils; tolerates erosion-prone sites and seasonal scour.
+
+## Wildlife value
+
+Early pollen and nectar for bees; leaves feed many insects; beaver and deer browse twigs.
 
 ## Uses and significance
 
-The wood is used for boxes, crates, and pulp. Black willow roots help stabilize stream banks and reduce erosion. It provides shade over water, benefiting fish and other aquatic life, and is a pioneer on wet, disturbed sites.
+Bank stabilization and riparian buffers; quick shade in wet spots; short-lived but easily replaced.

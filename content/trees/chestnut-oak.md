@@ -2,16 +2,28 @@
 title: "Chestnut Oak"
 latinName: "Quercus montana"
 type: "Deciduous"
-height: "18–30 m"
+height: "60–100 ft"
 region: "Eastern North America; Maryland dry ridges and slopes"
+sun: "full sun"
 ---
-
-Chestnut oak has chestnut-like leaves with rounded teeth (no bristles) and dark, deeply furrowed bark. The acorn cap is warty. It is also known as rock oak or basket oak. (Often listed as Q. prinus in older references.)
+Chestnut Oak (Quercus montana) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, chestnut oak grows on dry, rocky ridges and upper slopes, often in pure stands or with other oaks. It is common in the mountains and piedmont and tolerates thin, acidic soils.
+Dry rocky ridges and mountain slopes—dominant “chestnut oak” belt vegetation in parts of western Maryland.
+
+## Identification
+
+White oak group—rounded leaf teeth without bristles; blocky dark bark; acorns large in shallow cups.
+
+## Soil and moisture
+
+Thin, rocky, well-drained, acidic; tolerates drought and exposure.
+
+## Wildlife value
+
+Sweet acorns for bears, deer, turkeys, and small mammals; bark furrows shelter insects.
 
 ## Uses and significance
 
-The wood is used for lumber, railroad ties, and fencing. Acorns are an important wildlife food. Chestnut oak dominates many ridge-top forests and is well adapted to fire and drought.
+Timber and firewood; erosion control on steep slopes; iconic ridge-top canopy tree.

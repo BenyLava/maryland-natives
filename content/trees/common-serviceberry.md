@@ -2,16 +2,28 @@
 title: "Common Serviceberry"
 latinName: "Amelanchier arborea"
 type: "Deciduous"
-height: "4–12 m"
+height: "15–40 ft"
 region: "Eastern North America; Maryland woods and edges"
+sun: "part sun"
 ---
-
-Common serviceberry is a small tree with smooth, gray bark, white spring flowers, and sweet, red to purple fruits. Leaves are toothed and often fuzzy when young.
+Common Serviceberry (Amelanchier arborea) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, common serviceberry grows in woods, on slopes, and along edges, from dry uplands to moist sites. It is widespread across the state and tolerates a range of soils and light conditions.
+Woodland edges, slopes, and openings statewide; one of the first understory trees to flower.
+
+## Identification
+
+White racemes in early spring; oval leaves often hairy when young; striped bark on older trunks; sweet Juneberries.
+
+## Soil and moisture
+
+Moist, well-drained, acidic to neutral forest soils; tolerates partial shade.
+
+## Wildlife value
+
+Early nectar and pollen; berries for birds and mammals; host to several butterfly larvae.
 
 ## Uses and significance
 
-The fruits are edible and attract many birds. Serviceberry is planted as an ornamental for its flowers, fruit, and fall color. It is an important understory and edge tree in eastern forests.
+Small native ornamental; edible fruit; multi-season garden interest.

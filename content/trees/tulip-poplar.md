@@ -1,18 +1,29 @@
 ---
-title: 'Tulip Poplar'
-latinName: 'Liriodendron tulipifera'
-type: 'Deciduous'
-height: '20�45 m'
-region: 'Eastern North America; very common in Maryland'
+title: "Tulip Poplar"
+latinName: "Liriodendron tulipifera"
+type: "Deciduous"
+height: "65–150 ft"
+region: "Eastern North America; very common in Maryland"
+sun: "full sun"
 ---
-
-Tulip poplar, also called yellow-poplar or tuliptree, is one of the tallest native hardwoods in Maryland. It has straight trunks, tulip-shaped leaves, and greenish-yellow flowers with orange bases.
+Tulip Poplar (Liriodendron tulipifera) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, tulip poplar dominates many moist, well-drained forests, especially in piedmont and coastal plain regions. It grows quickly and can form pure stands after disturbance.
+Rich coves and mesic slopes—one of the tallest eastern hardwoods and common in Maryland forests.
+
+## Identification
+
+Unique tulip-shaped summer flowers with orange and green; leaves four-lobed like silhouettes; tall straight column in youth.
+
+## Soil and moisture
+
+Deep, moist, well-drained, slightly acidic soils; needs vertical space.
+
+## Wildlife value
+
+Nectar for ruby-throated hummingbirds and bees; soft wood develops cavities quickly for wildlife.
 
 ## Uses and significance
 
-The wood is light, workable, and widely used for construction, furniture frames, and interior trim. Tulip poplar flowers provide nectar for pollinators, and large trees offer excellent shade.
-
+Fast shade and timber; magnificent lawn specimen if given room.

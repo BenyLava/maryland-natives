@@ -2,17 +2,28 @@
 title: "American Holly"
 latinName: "Ilex opaca"
 type: "Evergreen"
-height: "9–15 m"
+height: "30–50 ft"
 region: "Eastern United States; common in Maryland coastal forests"
+sun: "part sun"
 ---
-
-American holly is an evergreen tree with stiff, spiny leaves and bright red berries on female plants. Its dense, pyramidal form and winter color make it a signature species of mid‑Atlantic woodlands and landscapes.
+American Holly (Ilex opaca) is a native tree in Maryland (Evergreen). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, holly is especially abundant on the coastal plain in mixed evergreen and hardwood forests. It tolerates shade and acidic, sandy soils and is often found beneath taller pines and oaks.
+Acidic woods, coastal plain forests, and sandy pine barrens; common as an understory to midstory evergreen in Maryland.
+
+## Identification
+
+Spiny, leathery evergreen leaves; dioecious—females bear red berries with a pollenizer male nearby; gray, smoothish bark.
+
+## Soil and moisture
+
+Moist, acidic, organic-rich soils; tolerates some drought once established but not wet, alkaline clay.
+
+## Wildlife value
+
+Berries are critical winter food for many birds; dense foliage provides cover and nesting sites.
 
 ## Uses and significance
 
-Branches with berries are widely used for holiday decorations. The fruits are eaten by many birds and mammals, and the evergreen foliage provides important winter cover.
-
+Ornamental screen and specimen; holiday greenery where sustainably collected; slow-growing landscape anchor.

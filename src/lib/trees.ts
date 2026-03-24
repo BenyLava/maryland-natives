@@ -1,12 +1,15 @@
 import fs from "fs";
 import path from "path";
 
+export type TreeSun = "full sun" | "part sun" | "full shade";
+
 export type TreeMeta = {
   title: string;
   latinName: string;
   type: string;
   height: string;
   region: string;
+  sun: TreeSun | "";
   slug: string;
 };
 
@@ -54,14 +57,21 @@ export function getAllTrees(): TreeMeta[] {
       const raw = fs.readFileSync(fullPath, "utf8");
       const { data } = parseFrontMatter(raw);
       const slug = path.basename(file, ".md");
-      return {
-        title: data.title ?? "",
-        latinName: data.latinName ?? "",
-        type: data.type ?? "",
-        height: data.height ?? "",
-        region: data.region ?? "",
-        slug,
-      };
+  const sunRaw = (data.sun ?? "").toLowerCase().trim();
+  const sun: TreeSun | "" =
+    sunRaw === "full sun" || sunRaw === "part sun" || sunRaw === "full shade"
+      ? sunRaw
+      : "";
+
+  return {
+    title: data.title ?? "",
+    latinName: data.latinName ?? "",
+    type: data.type ?? "",
+    height: data.height ?? "",
+    region: data.region ?? "",
+    sun,
+    slug,
+  };
     })
     .sort((a, b) => a.title.localeCompare(b.title));
 }
@@ -74,12 +84,19 @@ export function getTreeBySlug(slug: string): Tree | null {
   const raw = fs.readFileSync(fullPath, "utf8");
   const { data, content } = parseFrontMatter(raw);
 
+  const sunRaw = (data.sun ?? "").toLowerCase().trim();
+  const sun: TreeSun | "" =
+    sunRaw === "full sun" || sunRaw === "part sun" || sunRaw === "full shade"
+      ? sunRaw
+      : "";
+
   return {
     title: data.title ?? "",
     latinName: data.latinName ?? "",
     type: data.type ?? "",
     height: data.height ?? "",
     region: data.region ?? "",
+    sun,
     slug,
     content,
   };

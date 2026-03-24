@@ -2,16 +2,28 @@
 title: "Smooth Sumac"
 latinName: "Rhus glabra"
 type: "Deciduous"
-height: "2–5 m"
+height: "5–15 ft"
 region: "Eastern and central North America; Maryland fields and roadsides"
+sun: "full sun"
 ---
-
-Smooth sumac is a shrub or small tree with compound leaves, smooth (hairless) twigs, and upright clusters of red fruits that persist into winter. Fall color is vivid red and orange.
+Smooth Sumac (Rhus glabra) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, smooth sumac grows in old fields, along roadsides, and in open, disturbed sites. It spreads by root suckers and forms thickets, especially on dry, sunny, well-drained soils.
+Old fields, roadsides, and dry banks; spreads by root suckers into colonies.
+
+## Identification
+
+Pinnately compound leaves without fuzzy stems; large upright red fruit clusters persisting into winter.
+
+## Soil and moisture
+
+Dry to mesic, poor soils welcome; highly drought tolerant.
+
+## Wildlife value
+
+Winter food for birds when little else remains; cover in dense clones.
 
 ## Uses and significance
 
-The fruits can be used to make a lemonade-like drink. Sumac provides food and cover for wildlife and is important in successional habitats. The foliage is a host for several butterfly species.
+Slope stabilization; native hedge; dramatic fall color.

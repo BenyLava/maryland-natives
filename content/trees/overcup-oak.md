@@ -2,16 +2,28 @@
 title: "Overcup Oak"
 latinName: "Quercus lyrata"
 type: "Deciduous"
-height: "18–30 m"
+height: "60–100 ft"
 region: "Southeastern U.S.; Maryland coastal plain wetlands"
+sun: "part sun"
 ---
-
-Overcup oak is a medium to large tree of wetlands, with leaves that have deep sinuses and acorns almost entirely enclosed by the cap (hence "overcup"). The bark is light gray and flaky.
+Overcup Oak (Quercus lyrata) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, overcup oak grows in bottomland forests, floodplains, and seasonally wet depressions on the coastal plain. It tolerates prolonged flooding and heavy, poorly drained soils.
+Seasonally flooded bottomlands and coastal plain swamps; acorns often nearly enclosed by the cup.
+
+## Identification
+
+White oak group leaves with irregular lobes; acorn cup wraps much of the nut; broad rounded crown in openings.
+
+## Soil and moisture
+
+Heavy, wet, acidic soils; tolerates long hydroperiods once established.
+
+## Wildlife value
+
+Acorns float and may disperse in floods; waterfowl and swamp wildlife use flooded forests.
 
 ## Uses and significance
 
-The wood is used for lumber and cooperage. Overcup oak is important in wetland forests and provides acorns and habitat for wildlife. It is less common than many other Maryland oaks but is characteristic of wet bottomlands.
+Wetland restoration and wildlife forests; shade only on appropriate wet sites.

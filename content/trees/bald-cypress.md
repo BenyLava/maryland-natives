@@ -2,16 +2,28 @@
 title: "Bald Cypress"
 latinName: "Taxodium distichum"
 type: "Deciduous"
-height: "25–40 m"
+height: "80–130 ft"
 region: "Southeastern U.S.; Maryland coastal plain swamps and rivers"
+sun: "full sun"
 ---
-
-Bald cypress is a large conifer that drops its needles in fall, with a broad, fluted base and often distinctive "knees" (root projections) in wet sites. It is a dominant tree of southern swamps and floodplains.
+Bald Cypress (Taxodium distichum) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, bald cypress grows in coastal plain swamps, along blackwater rivers, and in other permanently or seasonally wet sites. It tolerates standing water and is often associated with tupelo and red maple.
+Swamps, millponds, and river edges on the coastal plain; “knees” often rise from roots in flooded soils.
+
+## Identification
+
+Soft deciduous needles; conical crown when young; buttressed trunk and pneumatophores in standing water.
+
+## Soil and moisture
+
+Tolerates prolonged flooding and compacted wet clay; also grows in moist uplands once established.
+
+## Wildlife value
+
+Cypress swamps shelter amphibians, wading birds, and woodpeckers; seeds used by waterfowl.
 
 ## Uses and significance
 
-The wood is highly decay-resistant and used for siding, shingles, and boat building. Bald cypress wetlands store carbon, reduce flooding, and provide habitat for many species. The tree is also planted as an ornamental.
+Stately park tree; valuable timber in the Southeast; stormwater and wetland plantings.

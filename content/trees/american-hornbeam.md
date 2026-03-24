@@ -2,16 +2,28 @@
 title: "American Hornbeam"
 latinName: "Carpinus caroliniana"
 type: "Deciduous"
-height: "6–12 m"
+height: "20–40 ft"
 region: "Eastern North America; Maryland understories and stream margins"
+sun: "full shade"
 ---
-
-American hornbeam, also called musclewood or blue beech, is a small tree with smooth, gray, muscular-looking bark and toothed leaves. The fruit is a small nutlet attached to a leafy bract.
+American Hornbeam (Carpinus caroliniana) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, American hornbeam grows in moist woods, along streams, and in forest understories, often in shade. It prefers rich, well-drained soils and is common in piedmont and coastal plain forests.
+Cool, shaded stream banks and rich understories; often in beech–maple or mixed hardwood forests.
+
+## Identification
+
+Muscle-like fluted gray trunk (“musclewood”); doubly serrated leaves with many parallel veins; small nutlets in hop-like clusters.
+
+## Soil and moisture
+
+Moist, well-drained alluvium; tolerates periodic inundation along quiet streams.
+
+## Wildlife value
+
+Catkins and buds feed birds; dense branching offers cover; supports diverse moth and butterfly larvae.
 
 ## Uses and significance
 
-The wood is very hard and used for tool handles and levers. The tree provides food and cover for wildlife and is planted as an ornamental for its form and fall color. It is an important understory species in eastern hardwood forests.
+Naturalistic shade gardens and restoration underplanting; hard wood used for tool handles and mallets.

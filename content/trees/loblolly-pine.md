@@ -2,17 +2,28 @@
 title: "Loblolly Pine"
 latinName: "Pinus taeda"
 type: "Evergreen"
-height: "20–35 m"
+height: "65–115 ft"
 region: "Southeastern U.S.; dominant pine in Maryland coastal plain"
+sun: "full sun"
 ---
-
-Loblolly pine is a fast‑growing conifer with long needles in bundles of three and relatively large cones. It forms straight trunks with an open crown when grown in stands.
+Loblolly Pine (Pinus taeda) is a native tree in Maryland (Evergreen). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, loblolly pine is especially common on the coastal plain, in plantations, and on old fields and sandy soils. It tolerates poor, acidic sites and is widely planted for timber and pulpwood.
+Coastal plain pine woods, old fields, and plantations—Maryland’s common lowland pine.
+
+## Identification
+
+Needles in bundles of three; large cones with sharp prickles; rapid height growth in youth.
+
+## Soil and moisture
+
+Moist to dry acidic sands and loams; tolerates poor fertility after establishment.
+
+## Wildlife value
+
+Pine seeds for birds and small mammals; open understories can host quail and pollinators in herb layer.
 
 ## Uses and significance
 
-The wood is used for lumber, plywood, and pulp. Loblolly pine stands provide habitat for many bird species and are an important part of the coastal plain forest mosaic.
-
+Timber and pulp; fast screens; stormwater uptake on sandy sites.

@@ -2,16 +2,28 @@
 title: "Sourwood"
 latinName: "Oxydendrum arboreum"
 type: "Deciduous"
-height: "6–12 m"
+height: "20–40 ft"
 region: "Southeastern U.S.; Maryland slopes and woods"
+sun: "part sun"
 ---
-
-Sourwood is a small tree with long, curved clusters of white flowers in summer and brilliant red fall color. The leaves are sour to taste and alternate; the bark is blocky and gray.
+Sourwood (Oxydendrum arboreum) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, sourwood grows on dry to moist slopes and in open woods, often in the understory. It is more common in the piedmont and mountains and prefers well-drained, acidic soils.
+Acidic woodland slopes and edges—often leaning from understory toward light gaps.
+
+## Identification
+
+Drooping clusters of white lily-of-the-valley-like flowers; sour-tasting leaves; brilliant red fall foliage.
+
+## Soil and moisture
+
+Moist, acidic, well-drained; intolerant of high pH and compaction.
+
+## Wildlife value
+
+Exceptional late-summer nectar for bees (sourwood honey); seeds for birds.
 
 ## Uses and significance
 
-Sourwood honey is highly prized. The tree is planted as an ornamental for its flowers and fall color. Sourwood is an important component of southern Appalachian and piedmont forests and supports pollinators.
+Ornamental for acid gardens; keep as specimen where soil suits.

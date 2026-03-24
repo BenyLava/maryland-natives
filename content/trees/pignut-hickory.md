@@ -2,16 +2,28 @@
 title: "Pignut Hickory"
 latinName: "Carya glabra"
 type: "Deciduous"
-height: "18–27 m"
+height: "60–90 ft"
 region: "Eastern North America; Maryland dry woods and ridges"
+sun: "full sun"
 ---
-
-Pignut hickory is a medium to large tree with compound leaves, smooth bark when young, and pignut-shaped nuts that are often bitter. The crown is narrow and the branches tend to ascend.
+Pignut Hickory (Carya glabra) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, pignut hickory grows on dry ridges, slopes, and in upland woods, often with oaks and other hickories. It tolerates poor, dry, or rocky soils.
+Dry ridges and oak-hickory forests; common associate on Maryland uplands.
+
+## Identification
+
+Five (sometimes seven) leaflets; small pear-shaped nuts with thin husk that splits partly; tight bark plates.
+
+## Soil and moisture
+
+Well-drained, acidic, often droughty; tolerates low-nutrient slopes.
+
+## Wildlife value
+
+Nuts cached by rodents; supports many insects for woodpeckers and warblers.
 
 ## Uses and significance
 
-The wood is strong and used for tool handles, ladder rungs, and fuel. Nuts are eaten by wildlife. Pignut is a common hickory in Maryland's drier forests and contributes to the diversity of oak-hickory ecosystems.
+Excellent firewood and tool handles; drought-tolerant canopy for dry sites.

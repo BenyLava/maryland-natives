@@ -2,16 +2,28 @@
 title: "American Chestnut"
 latinName: "Castanea dentata"
 type: "Deciduous"
-height: "20–30 m (historically); now often shrubby"
+height: "65–100 ft"
 region: "Eastern North America; formerly dominant in Maryland mountains"
+sun: "full sun"
 ---
-
-American chestnut was once one of the most important trees in eastern forests, with straight trunks, toothed leaves, and edible nuts. Chestnut blight, introduced in the early 1900s, killed nearly all mature trees.
+American Chestnut (Castanea dentata) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, American chestnut was a major component of mountain and piedmont forests. Today, blight-resistant sprouts still grow from old stumps and roots, but they rarely reach maturity before being killed back.
+Historically a canopy giant in Appalachian and piedmont forests; today most wild stems are stump sprouts and shrubs after chestnut blight.
+
+## Identification
+
+Long, coarsely toothed leaves with prominent veins; once massive trunks with deeply furrowed bark; sprouts often cluster from old root crowns.
+
+## Soil and moisture
+
+Well-drained, acidic to neutral slopes; sprouts persist on dry ridges where blight-tolerant hybrids are being trialed.
+
+## Wildlife value
+
+Formerly a mast bonanza for wildlife; surviving sprouts still support insects and occasional nut crops where trees briefly mature.
 
 ## Uses and significance
 
-The wood was used for lumber, poles, and tannin. Nuts were a major food source for people and wildlife. Breeding programs and blight-resistant hybrids offer hope for restoring the species to the landscape.
+Breeding and restoration focus; durable rot-resistant wood when available; symbolic species for eastern forest restoration.

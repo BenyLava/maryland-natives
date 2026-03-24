@@ -2,16 +2,28 @@
 title: "Eastern Hemlock"
 latinName: "Tsuga canadensis"
 type: "Evergreen"
-height: "20–30 m"
+height: "65–100 ft"
 region: "Eastern North America; Maryland cool slopes and ravines"
+sun: "full shade"
 ---
-
-Eastern hemlock is a large conifer with short, flat needles and small hanging cones. It casts deep shade and often grows in pure stands along streams and in cool, moist ravines.
+Eastern Hemlock (Tsuga canadensis) is a native tree in Maryland (Evergreen). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, hemlock is found in the western mountains and piedmont in cool, shaded coves, along streams, and on north-facing slopes. It requires moist, well-drained soils and is sensitive to drought and heat.
+Cool north-facing ravines, stream corridors, and mountain slopes—Maryland’s hemlock stands are ecologically precious.
+
+## Identification
+
+Flat needles in two ranks; tiny pendant cones; fine-textured evergreen foliage; needles often have two white stomatal bands beneath.
+
+## Soil and moisture
+
+Moist, cool, well-drained acidic soils; very sensitive to drought, heat, and road salt.
+
+## Wildlife value
+
+Dense cover moderates stream temperatures for trout; winter shelter for deer and birds; many specialist insects.
 
 ## Uses and significance
 
-The wood is used for lumber and pulp. Hemlock forests provide critical habitat for birds and other wildlife and help cool streams. Hemlock woolly adelgid has killed many trees; conservation and treatment efforts are ongoing.
+Shade for trout streams; ornamental where woolly adelgid can be managed; prioritize conservation genetics.

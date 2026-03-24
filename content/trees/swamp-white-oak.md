@@ -2,17 +2,28 @@
 title: "Swamp White Oak"
 latinName: "Quercus bicolor"
 type: "Deciduous"
-height: "15–25 m"
+height: "50–80 ft"
 region: "Northeastern U.S.; in Maryland wetlands and floodplains"
+sun: "full sun"
 ---
-
-Swamp white oak is a medium to large oak with peeling bark on branches and leaves that are pale and fuzzy underneath. It is well adapted to seasonally wet conditions.
+Swamp White Oak (Quercus bicolor) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, swamp white oaks grow in low, poorly drained areas, along floodplains, and near wetlands. They tolerate periodic flooding and heavy, moist soils better than many other oaks.
+Floodplains and wet terraces; also tolerates moist uplands—popular for urban tough sites when soil is acidic.
+
+## Identification
+
+White oak group with rounded lobes; undersides of leaves often fuzzy; acorns on long stalks.
+
+## Soil and moisture
+
+Moist to wet, poorly drained phases OK; avoid high pH without intervention.
+
+## Wildlife value
+
+Acorns sprout in fall—important for germination-dependent wildlife cycles; cavities later.
 
 ## Uses and significance
 
-The wood is similar to other white oaks and used for lumber and cooperage. Acorns provide food for wildlife, and the tree is increasingly planted in restoration projects on wet sites.
-
+Street tree selections available; wetland mitigation; wildlife oak plantings.

@@ -36,10 +36,8 @@ export default async function ArticlePage({ params }: PageProps) {
   let i = 0;
   if (lines[0]?.trim() === "---") {
     i = 1;
-    let dashesSeen = 1;
     for (; i < lines.length; i++) {
       if (lines[i].trim() === "---") {
-        dashesSeen++;
         i++;
         break;
       }
@@ -68,6 +66,32 @@ export default async function ArticlePage({ params }: PageProps) {
               <h2 key={index} className="mt-6 text-lg font-semibold">
                 {line.replace("## ", "")}
               </h2>
+            );
+          }
+
+          const imageMatch = /^!\[([^\]]*)\]\(([^)]+)\)$/.exec(line.trim());
+          if (imageMatch) {
+            const alt = imageMatch[1];
+            const src = imageMatch[2];
+            return (
+              <figure
+                key={index}
+                className="my-4 max-w-lg overflow-hidden rounded-lg border border-neutral-300 bg-[#f5f4e8] shadow-sm"
+              >
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img
+                  src={src}
+                  alt={alt}
+                  className="h-auto w-full object-cover"
+                  loading="lazy"
+                  decoding="async"
+                />
+                {alt ? (
+                  <figcaption className="px-3 py-2 text-xs text-neutral-600">
+                    {alt}
+                  </figcaption>
+                ) : null}
+              </figure>
             );
           }
 

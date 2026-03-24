@@ -2,16 +2,28 @@
 title: "White Ash"
 latinName: "Fraxinus americana"
 type: "Deciduous"
-height: "18–30 m"
+height: "60–100 ft"
 region: "Eastern North America; Maryland upland forests"
+sun: "full sun"
 ---
-
-White ash is a tall tree with compound leaves that turn purple or yellow in fall. The bark forms distinct diamond-shaped ridges. Its wood is strong and flexible, prized for tools and baseball bats.
+White Ash (Fraxinus americana) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, white ash grows in well-drained upland forests, slopes, and rich woods across the state. It prefers deep, moist soils and is often associated with oaks, hickories, and maples.
+Rich moist slopes and mixed forests; populations devastated by emerald ash borer—plant only as part of diverse mixes.
+
+## Identification
+
+Opposite compound leaves with five to nine stalkless leaflets; diamond-patterned bark on mature trees; paddle-shaped samaras.
+
+## Soil and moisture
+
+Moist, fertile, well-drained loam; tolerates seasonal moisture.
+
+## Wildlife value
+
+Seeds eaten by many birds; bark hosts sapsuckers; EAB has collapsed many populations.
 
 ## Uses and significance
 
-The wood is used for furniture, flooring, tool handles, and baseball bats. Seeds are eaten by wildlife. White ash has been heavily impacted by emerald ash borer; conservation and resistant stock are priorities.
+Tool handles and baseball bats historically; prioritize EAB-tolerant selections or substitute species in new plantings.

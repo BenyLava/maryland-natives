@@ -2,17 +2,28 @@
 title: "Pawpaw"
 latinName: "Asimina triloba"
 type: "Deciduous"
-height: "4–9 m"
+height: "15–30 ft"
 region: "Eastern North America; native to Maryland river valleys"
+sun: "full shade"
 ---
-
-Pawpaw is a small understory tree with large, tropical‑looking leaves and edible, custard‑like fruits. The maroon spring flowers are pollinated by flies and beetles.
+Pawpaw (Asimina triloba) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, pawpaws are most often found in rich, moist soils along rivers, streams, and lower slopes. They can form colonies via root suckers and create dense, leafy thickets.
+Rich alluvial bottoms and shady slopes; forms clonal thickets under taller hardwoods.
+
+## Identification
+
+Large tropical-looking leaves; purple-brown spring flowers; banana-custard flavored fruits on patch-forming clones.
+
+## Soil and moisture
+
+Moist, fertile, well-drained loam; needs shade when young for best fruiting in hot climates.
+
+## Wildlife value
+
+Fruit feeds mammals and box turtles; sole host for zebra swallowtail butterfly larvae.
 
 ## Uses and significance
 
-The fruits are eaten fresh or used in desserts and preserves, though they are rarely seen in stores. Pawpaw patches provide cover for wildlife, and the tree is the larval host for the zebra swallowtail butterfly.
-
+Edible native fruit orchard under shade cloth or high canopy; ornamental foliage.

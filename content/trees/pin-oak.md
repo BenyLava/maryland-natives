@@ -2,16 +2,28 @@
 title: "Pin Oak"
 latinName: "Quercus palustris"
 type: "Deciduous"
-height: "18–28 m"
+height: "60–90 ft"
 region: "Eastern North America; Maryland bottomlands and planted widely"
+sun: "full sun"
 ---
-
-Pin oak has deeply lobed leaves with bristle tips and lower branches that often sweep downward. It tolerates wet soils and is one of the most commonly planted oaks in landscapes and streets.
+Pin Oak (Quercus palustris) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, pin oak grows in bottomlands, floodplains, and wet woods, as well as in parks and along streets. It prefers acidic, moist to wet soils and is common on the coastal plain and in planted sites.
+Natural in poorly drained flats; widely planted in lawns—needs acidic soil to avoid chlorosis.
+
+## Identification
+
+Lower branches droop, middle horizontal, upper upright (“pin” silhouette); deeply lobed leaves with bristle tips; small acorns.
+
+## Soil and moisture
+
+Moist, acidic, heavy soils; iron chlorosis on high-pH sites without treatment.
+
+## Wildlife value
+
+Acorns in wet years; structure used by cavity nesters over time.
 
 ## Uses and significance
 
-The wood is used for lumber and fuel. Pin oak is a popular shade tree despite a tendency to retain dead branches; it provides acorns for wildlife and is a familiar sight in Maryland's wet woods and suburbs.
+Street and lawn tree where pH is managed; wetland mitigation plantings.

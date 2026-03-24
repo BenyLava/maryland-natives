@@ -2,16 +2,28 @@
 title: "Red Mulberry"
 latinName: "Morus rubra"
 type: "Deciduous"
-height: "9–18 m"
+height: "30–60 ft"
 region: "Eastern North America; Maryland rich woods and edges"
+sun: "part sun"
 ---
-
-Red mulberry is a small to medium tree with variable leaves (some mitten-shaped, some lobed) and sweet, dark red to black fruits that ripen in summer. It is the only native mulberry in the eastern U.S.
+Red Mulberry (Morus rubra) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, red mulberry grows in rich woods, floodplains, and along edges. It prefers moist, fertile soils and is scattered across the state; it can be outcompeted or hybridized by the introduced white mulberry.
+Rich woods, fencerows, and floodplain edges; less aggressive than invasive white mulberry where both occur.
+
+## Identification
+
+Variable leaves from unlobed to mitten-shaped; dark juicy berries staining fingers; rough bark.
+
+## Soil and moisture
+
+Moist, fertile soils; tolerates partial shade and urban edges.
+
+## Wildlife value
+
+Berries feed dozens of bird species; foliage hosts silkworm relatives and other insects.
 
 ## Uses and significance
 
-The fruits are eaten fresh or used in pies and preserves; birds and mammals also consume them. The tree provides food for silkworm larvae and other insects. Red mulberry is declining in parts of its range due to hybridization and habitat loss.
+Edible landscaping; bird gardens; prefer native over exotic mulberries when planting.

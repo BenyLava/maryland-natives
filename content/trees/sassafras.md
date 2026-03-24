@@ -2,17 +2,28 @@
 title: "Sassafras"
 latinName: "Sassafras albidum"
 type: "Deciduous"
-height: "6–18 m"
+height: "20–60 ft"
 region: "Eastern North America; common in Maryland thickets and woods"
+sun: "part sun"
 ---
-
-Sassafras is a small to medium tree famous for its three distinct leaf shapes on the same plant: unlobed, mitten‑shaped, and three‑lobed. Crushed leaves and bark have a spicy, root beer‑like aroma.
+Sassafras (Sassafras albidum) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, sassafras often grows in old fields, along forest edges, and in open woods. It spreads by root suckers and can form thickets, especially on well‑drained, acidic soils.
+Old fields, edges, and sandy pine woods; root-suckering thickets common.
+
+## Identification
+
+Three leaf forms on one tree—unlobed, mitten, and three-lobed; aromatic bark and leaves; dark blue berries on female plants.
+
+## Soil and moisture
+
+Well-drained, acidic, often sandy; tolerates poor fertility.
+
+## Wildlife value
+
+Berries for birds; host for spicebush swallowtail; early spring flowers for pollinators.
 
 ## Uses and significance
 
-Historically, sassafras roots and bark were used for teas and flavorings. Today it’s valued mainly for its wildlife benefits and fall color, with leaves turning yellow, orange, and red.
-
+Pioneer restoration; ornamental fall color; historical culinary use of parts is unsafe—do not self-medicate.

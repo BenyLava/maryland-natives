@@ -2,17 +2,28 @@
 title: "Eastern Red Cedar"
 latinName: "Juniperus virginiana"
 type: "Evergreen"
-height: "6–15 m"
+height: "20–50 ft"
 region: "Eastern North America; frequent in Maryland fields and roadsides"
+sun: "full sun"
 ---
-
-Eastern red cedar is a small to medium conifer with dense, often columnar crowns and scale‑like foliage. Female trees produce bluish, berry‑like cones that are popular with birds.
+Eastern Red Cedar (Juniperus virginiana) is a native tree in Maryland (Evergreen). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, red cedar commonly colonizes old fields, pastures, and roadsides, especially on dry, rocky, or calcareous soils. It is tolerant of poor conditions and often one of the first trees to invade open ground.
+Old fields, limestone barrens, and roadsides; colonizes sunny openings before hardwoods return.
+
+## Identification
+
+Scale-like aromatic foliage; blue “berries” are actually cones on female plants; shreddy reddish bark on trunks.
+
+## Soil and moisture
+
+Extremely drought and alkaline tolerant; poor thin soils are fine.
+
+## Wildlife value
+
+Winter fruit for cedar waxwings and bluebirds; evergreen cover; host for juniper hairstreak butterfly.
 
 ## Uses and significance
 
-The fragrant, decay‑resistant wood is used for fence posts and cedar chests. Dense foliage provides excellent cover and nesting sites for birds, and the “berries” are an important winter food source.
-
+Windbreaks, screens, and erosion control; rot-resistant fence posts; manage near apple orchards (cedar-apple rust).

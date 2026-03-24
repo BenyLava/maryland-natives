@@ -2,17 +2,28 @@
 title: "American Sycamore"
 latinName: "Platanus occidentalis"
 type: "Deciduous"
-height: "20–40 m"
+height: "65–130 ft"
 region: "Eastern North America; along Maryland rivers and streams"
+sun: "full sun"
 ---
-
-American sycamore is a massive tree with mottled bark that peels to reveal white and green patches beneath. Its broad crown and huge trunk make it one of the most imposing trees in eastern floodplains.
+American Sycamore (Platanus occidentalis) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, sycamores are most often found along riverbanks, streams, and low, moist bottomlands. They tolerate periodic flooding and saturated soils and can grow to great size on alluvial deposits.
+Riverbanks, floodplains, and low fields—often the palest trunks visible along Maryland waterways.
+
+## Identification
+
+Mottled exfoliating bark on upper trunk and branches; large maple-like leaves with three to five lobes; spherical fruit balls persist into winter.
+
+## Soil and moisture
+
+Tolerates wet soils and occasional inundation; also succeeds on moist uplands with space for roots and crown.
+
+## Wildlife value
+
+Hollow trunks in old trees shelter bats, owls, and wood ducks; seeds eaten by finches and other small birds.
 
 ## Uses and significance
 
-The wood is used for veneer, boxes, and interior work. Sycamores provide shade along waterways, stabilize banks, and offer habitat for cavity‑nesting birds and other wildlife.
-
+Fast shade for large parks; tolerant of tough urban riverfront sites if given soil volume.

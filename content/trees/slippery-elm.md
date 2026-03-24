@@ -2,16 +2,28 @@
 title: "Slippery Elm"
 latinName: "Ulmus rubra"
 type: "Deciduous"
-height: "12–21 m"
+height: "40–70 ft"
 region: "Eastern North America; Maryland rich woods and slopes"
+sun: "part sun"
 ---
-
-Slippery elm is a medium tree with rough, sandpapery leaves and inner bark that becomes mucilaginous when chewed or soaked. The bark is dark brown and often furrowed.
+Slippery Elm (Ulmus rubra) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, slippery elm grows in rich, moist woods, along streams, and on slopes, often with other hardwoods. It is less common than American elm was and has also been affected by Dutch elm disease.
+Rich slopes and stream terraces; less common than American elm in many areas today.
+
+## Identification
+
+Sandpapery upper leaf surface; asymmetrical base; mucilaginous inner bark historically used as demulcent.
+
+## Soil and moisture
+
+Moist, fertile, well-drained to periodically wet soils.
+
+## Wildlife value
+
+Seeds and buds for birds; host for mourning cloak and other butterflies.
 
 ## Uses and significance
 
-The inner bark was traditionally used for throat remedies and poultices. The wood is used for boxes, furniture, and lumber. Slippery elm provides food and cover for wildlife and is a component of mesic forest ecosystems.
+Restoration plantings; inner bark has documented traditional uses—consult reliable sources.

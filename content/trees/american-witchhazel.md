@@ -2,16 +2,28 @@
 title: "American Witchhazel"
 latinName: "Hamamelis virginiana"
 type: "Deciduous"
-height: "4–9 m"
+height: "15–30 ft"
 region: "Eastern North America; Maryland understories and stream margins"
+sun: "part sun"
 ---
-
-American witchhazel is a large shrub or small tree that flowers in late fall—yellow, ribbon-like petals appear after the leaves drop. The fruit is a capsule that splits and ejects seeds the following year.
+American Witchhazel (Hamamelis virginiana) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, witchhazel grows in moist woods, along streams, and in forest understories across the state. It tolerates shade and prefers well-drained, acidic soils.
+Wooded slopes, rocky understories, and stream margins; unusual for blooming in late fall.
+
+## Identification
+
+Strappy yellow autumn flowers with four narrow petals; broad leaves with uneven bases and wavy teeth; woody capsules eject seeds explosively.
+
+## Soil and moisture
+
+Moist, acidic, well-drained humus; tolerates shade—often grows as a large shrub or small tree.
+
+## Wildlife value
+
+Late nectar for insects when little else blooms; seeds eaten by birds and small mammals.
 
 ## Uses and significance
 
-Extracts from bark and leaves are used in astringents and skin care products. Witchhazel provides late-season nectar for pollinators and cover for wildlife. It is a common understory species in eastern hardwood forests.
+Native ornamental for shade; traditional folk uses—verify modern safety before any medicinal use.

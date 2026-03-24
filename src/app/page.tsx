@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { getAllArticles } from "@/lib/articles";
 import { getAllTrees } from "@/lib/trees";
+import { treeCatalogMetaLineClass } from "@/lib/tree-meta-styles";
 
 const FEATURED_ARTICLE_SLUG = "why-plant-native-trees";
 
@@ -89,9 +90,17 @@ export default function Home() {
                   {tree.region}
                 </p>
               </div>
-              <p className="mt-3 text-xs font-semibold uppercase tracking-wide text-emerald-800">
-                {tree.type}
-              </p>
+              <div className="mt-3 space-y-1">
+                {tree.sun ? (
+                  <p className={treeCatalogMetaLineClass}>Sun: {tree.sun}</p>
+                ) : null}
+                {tree.height ? (
+                  <p className={treeCatalogMetaLineClass}>Height: {tree.height}</p>
+                ) : null}
+                <p className="text-xs font-semibold uppercase tracking-wide text-emerald-800">
+                  {tree.type}
+                </p>
+              </div>
             </Link>
           ))}
         </div>

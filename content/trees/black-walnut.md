@@ -2,17 +2,28 @@
 title: "Black Walnut"
 latinName: "Juglans nigra"
 type: "Deciduous"
-height: "18–30 m"
+height: "60–100 ft"
 region: "Eastern North America; scattered in Maryland forests and fields"
+sun: "full sun"
 ---
-
-Black walnut is a large tree with dark furrowed bark and long, feather‑like compound leaves. It produces round green husks that dry to reveal hard, dark walnuts inside.
+Black Walnut (Juglans nigra) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, black walnuts are often found in rich bottomlands, fencerows, and old fields. They prefer deep, fertile, well‑drained soils and full sun, and are commonly planted for nuts and timber.
+Rich bottomlands and farm edges; scattered in Maryland forests, often near old homesteads.
+
+## Identification
+
+Compound aromatic leaves; round green husks enclosing ridged nuts; dark deeply furrowed bark.
+
+## Soil and moisture
+
+Deep, fertile, well-drained soils; juglone in roots limits many companion plants—plan accordingly.
+
+## Wildlife value
+
+Nuts prized by squirrels and blue jays; supports many caterpillar species for breeding birds.
 
 ## Uses and significance
 
-The wood is prized for high‑quality furniture and gunstocks. Nuts are eaten by people and wildlife alike. The tree produces juglone, a chemical that can inhibit the growth of some nearby plants.
-
+Premium veneer and furniture wood; edible nuts; large shade tree for properties with space.

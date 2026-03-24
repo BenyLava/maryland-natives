@@ -2,16 +2,28 @@
 title: "Swamp Chestnut Oak"
 latinName: "Quercus michauxii"
 type: "Deciduous"
-height: "18–30 m"
+height: "60–100 ft"
 region: "Southeastern U.S.; Maryland bottomlands and wet woods"
+sun: "full sun"
 ---
-
-Swamp chestnut oak has large, chestnut-like leaves with rounded teeth and large, sweet acorns. The bark is light gray and flaky. It is also called basket oak for the use of its wood in baskets.
+Swamp Chestnut Oak (Quercus michauxii) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, swamp chestnut oak grows in bottomlands, floodplains, and moist woods on the coastal plain. It tolerates seasonal flooding and prefers rich, alluvial soils.
+Bottomlands and rich hammocks—large white oak group species of southeastern floodplains reaching Maryland’s warmer counties.
+
+## Identification
+
+Large oblong leaves with rounded teeth; acorns large in shallow cups; tight gray bark on mature trunks.
+
+## Soil and moisture
+
+Deep, moist alluvial soils; tolerates seasonal high water tables.
+
+## Wildlife value
+
+Large sweet acorns for deer, turkeys, and rodents; important mast in wet hardwood forests.
 
 ## Uses and significance
 
-The wood is used for lumber and cooperage. Acorns are large and palatable to wildlife and were used by people. Swamp chestnut oak is a valuable component of bottomland hardwood forests.
+Bottomland timber; wildlife food plots in seasonally wet sites.

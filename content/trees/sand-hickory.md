@@ -2,16 +2,28 @@
 title: "Sand Hickory"
 latinName: "Carya pallida"
 type: "Deciduous"
-height: "15–24 m"
+height: "50–80 ft"
 region: "Southeastern U.S.; Maryland coastal plain and sandy soils"
+sun: "full sun"
 ---
-
-Sand hickory is a medium tree with compound leaves that are pale and often hairy underneath, and thin-husked nuts. It is adapted to dry, sandy, or rocky sites.
+Sand Hickory (Carya pallida) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, sand hickory is found on the coastal plain and in the piedmont on dry, sandy, or well-drained soils—sandhills, ridges, and open woods. It is less common than other hickories.
+Sandy coastal plain ridges and dry oak-pine woods; localized in warmer parts of Maryland.
+
+## Identification
+
+Seven to nine narrow leaflets; small nuts; bark tight compared to shagbark.
+
+## Soil and moisture
+
+Deep sand, acidic, droughty; intolerant of wet clay.
+
+## Wildlife value
+
+Mast for rodents; part of pine barrens food webs.
 
 ## Uses and significance
 
-The wood is used for tool handles and fuel. Nuts are eaten by wildlife. Sand hickory is an important component of dry, fire-adapted woodlands and provides mast in sandy-soil ecosystems.
+Restoration on deep sand; drought-tolerant shade where hardy.

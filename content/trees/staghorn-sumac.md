@@ -2,16 +2,28 @@
 title: "Staghorn Sumac"
 latinName: "Rhus typhina"
 type: "Deciduous"
-height: "3–6 m"
+height: "10–20 ft"
 region: "Eastern North America; Maryland open woods and edges"
+sun: "full sun"
 ---
-
-Staghorn sumac is a shrub or small tree with velvety, antler-like branches, compound leaves, and dense, fuzzy red fruit clusters. Fall color is bright red to orange.
+Staghorn Sumac (Rhus typhina) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, staghorn sumac grows in open woods, along edges, and on roadsides and disturbed ground. It forms thickets via root suckers and tolerates dry, rocky, or poor soils.
+Roadsides, clearings, and rocky slopes; fuzzy young stems like stag horns.
+
+## Identification
+
+Velvety twigs; pinnate leaves; dense pyramidal red fruit clusters at stem tips.
+
+## Soil and moisture
+
+Any well-drained soil; thrives on neglect.
+
+## Wildlife value
+
+Winter finches and others eat seeds; quick cover after disturbance.
 
 ## Uses and significance
 
-The fruits are used for beverages and dye. Staghorn sumac provides food and cover for wildlife and is planted for erosion control and ornamental use. It is a familiar sight in fall with its red fruit and foliage.
+Erosion control on cuts; naturalistic colonies—give room to spread.

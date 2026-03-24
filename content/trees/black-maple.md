@@ -2,16 +2,28 @@
 title: "Black Maple"
 latinName: "Acer nigrum"
 type: "Deciduous"
-height: "20–30 m"
+height: "65–100 ft"
 region: "Eastern North America; Maryland rich woods, often with sugar maple"
+sun: "part sun"
 ---
-
-Black maple is similar to sugar maple but with drooping leaves that often have three lobes and velvety undersides. Fall color is yellow to orange. It was sometimes classified as a variety of sugar maple.
+Black Maple (Acer nigrum) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, black maple grows in rich, moist woods, on slopes, and in bottomlands, often mixed with sugar maple. It is less common than sugar maple and prefers calcareous or neutral soils.
+Rich coves and lower slopes, often mixed with sugar maple in western and central Maryland.
+
+## Identification
+
+Similar to sugar maple with droopy leaf tips and often three lobes; milky sap; furrowed bark on older trunks.
+
+## Soil and moisture
+
+Deep, moist, well-drained loam; tolerates shade as a maple subcanopy tree.
+
+## Wildlife value
+
+Samara seeds for birds and small mammals; spring flowers for early insects; fall color for people and pollinators on warm days.
 
 ## Uses and significance
 
-Like sugar maple, black maple can be tapped for syrup. The wood is used for lumber, flooring, and furniture. Black maple contributes to the diversity of maple-dominated forests in the region.
+Sugar syrup potential where tapped; timber grouped with hard maple; shade tree on suitable sites.

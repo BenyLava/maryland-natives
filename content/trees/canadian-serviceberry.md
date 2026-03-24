@@ -1,17 +1,29 @@
 ---
-title: "Canadian Serviceberry (Shadblow, Shadbush, Shadwood)"
+title: "Canadian Serviceberry"
 latinName: "Amelanchier canadensis"
 type: "Deciduous"
-height: "4–9 m"
+height: "15–30 ft"
 region: "Eastern North America; Maryland wetlands and thickets"
+sun: "part sun"
 ---
-
-Canadian serviceberry is a large shrub or small tree with white spring flowers, edible purple fruits, and smooth gray bark. It often forms colonies and is one of several serviceberries native to the region.
+Canadian Serviceberry (Shadblow, Shadbush, Shadwood) (Amelanchier canadensis) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, Canadian serviceberry grows in wet woods, swamps, and along streams, often in full sun to partial shade. It is common on the coastal plain and in piedmont wetlands.
+Wet thickets, stream edges, and low woods—often earlier blooming than downy serviceberry.
+
+## Identification
+
+White early-spring flowers in clusters; edible June berries; smooth to lightly hairy young leaves depending on form.
+
+## Soil and moisture
+
+Moist to wet acidic soils; tolerates shade along woodland margins.
+
+## Wildlife value
+
+Berries for catbirds, robins, and mammals; flowers for early pollinators.
 
 ## Uses and significance
 
-The fruits are eaten fresh or in jellies and pies; birds and mammals also consume them. The tree is planted for wildlife and as an ornamental. Bloom time coincides with shad runs in rivers, hence "shadblow."
+Naturalistic rain gardens and shrub borders; edible landscaping with multiple seasons of interest.

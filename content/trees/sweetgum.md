@@ -2,17 +2,28 @@
 title: "Sweetgum"
 latinName: "Liquidambar styraciflua"
 type: "Deciduous"
-height: "18–30 m"
+height: "60–100 ft"
 region: "Eastern North America; abundant in Maryland coastal plain"
+sun: "full sun"
 ---
-
-Sweetgum is easily recognized by its star‑shaped leaves and spiky, round seed balls that persist through winter. In autumn, the foliage can turn a mix of yellow, orange, red, and purple.
+Sweetgum (Liquidambar styraciflua) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, sweetgum is especially common on the coastal plain in moist bottomlands, old fields, and along roadsides. It favors deep, moist soils but tolerates a range of conditions and can regenerate aggressively on disturbed sites.
+Moist to wet lowlands and old fields; abundant in Maryland’s coastal plain pine-hardwood mixes.
+
+## Identification
+
+Star-shaped leaves and woody “gumball” capsules; tall straight trunk in forest; corky wings on twigs of some forms.
+
+## Soil and moisture
+
+Moist acidic soils; tolerates clay if not permanently saturated.
+
+## Wildlife value
+
+Finches eat seeds from spiny balls; supports many moth species.
 
 ## Uses and significance
 
-The wood is used for pulp, pallets, and furniture components. Sweetgum’s colorful fall display makes it a popular ornamental, though the prickly seed balls can be considered a nuisance in yards and on sidewalks.
-
+Timber and plywood; fast shade; fruitless cultivars reduce litter in yards.

@@ -1,18 +1,29 @@
 ---
-title: 'American Beech'
-latinName: 'Fagus grandifolia'
-type: 'Deciduous'
-height: '18�30 m'
-region: 'Eastern North America; widespread in Maryland forests'
+title: "American Beech"
+latinName: "Fagus grandifolia"
+type: "Deciduous"
+height: "60–100 ft"
+region: "Eastern North America; widespread in Maryland forests"
+sun: "part sun"
 ---
-
-American beech is easily recognized by its smooth gray bark and dense, spreading crown. In winter it often holds onto its pale, papery leaves on lower branches.
+American Beech (Fagus grandifolia) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-Beech grows in rich, moist forests across much of Maryland, especially on slopes and in valleys. It often forms stands with oaks, maples, and tulip poplar.
+Rich, mesic forests across Maryland—often with sugar maple, oak, and tulip poplar on slopes and in cool valleys.
+
+## Identification
+
+Smooth, steel-gray bark (often carved with initials in parks); long elliptical leaves with straight veins ending in teeth; long, narrow buds; papery marcescent leaves may cling on young trees through winter.
+
+## Soil and moisture
+
+Moist, well-drained, fertile loam; tolerates shade but grows best with some canopy opening. Avoid droughty, compacted urban pits.
+
+## Wildlife value
+
+Beech nuts feed mice, squirrels, bears, and many birds when crops are good; large trees provide nest sites and cavities.
 
 ## Uses and significance
 
-The wood is hard and heavy, used for furniture, tool handles, and flooring. Beech nuts are an important wildlife food, and large beeches create deep, cool shade in mature forests.
-
+Hard, fine-grained wood for furniture and flooring; iconic park and forest tree valued for dense summer shade.

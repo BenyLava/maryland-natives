@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { getAllTrees } from "@/lib/trees";
+import { treeCatalogMetaLineClass } from "@/lib/tree-meta-styles";
 
 export default function TreesPage() {
   const trees = getAllTrees();
@@ -40,9 +41,17 @@ export default function TreesPage() {
                 {tree.region}
               </p>
             </div>
-            <p className="text-sm font-semibold uppercase tracking-wide text-emerald-800">
-              {tree.type}
-            </p>
+            <div className="flex flex-col gap-1">
+              {tree.sun ? (
+                <p className={treeCatalogMetaLineClass}>Sun: {tree.sun}</p>
+              ) : null}
+              {tree.height ? (
+                <p className={treeCatalogMetaLineClass}>Height: {tree.height}</p>
+              ) : null}
+              <p className="text-sm font-semibold uppercase tracking-wide text-emerald-800">
+                {tree.type}
+              </p>
+            </div>
           </Link>
         ))}
       </div>

@@ -2,16 +2,28 @@
 title: "White Fringetree"
 latinName: "Chionanthus virginicus"
 type: "Deciduous"
-height: "4–9 m"
+height: "15–30 ft"
 region: "Southeastern U.S.; Maryland woods and stream margins"
+sun: "part sun"
 ---
-
-White fringetree is a small tree or large shrub with showy, fragrant white flowers in late spring—long, strap-like petals give a fringed appearance. Leaves are broad and opposite; female plants bear dark blue fruits.
+White Fringetree (Chionanthus virginicus) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, white fringetree grows in moist woods, along streams, and on slopes, often in partial shade. It is more common on the coastal plain and piedmont and prefers well-drained, slightly acidic soils.
+Stream bluffs, limestone glades, and moist woods edges in warmer Maryland counties.
+
+## Identification
+
+Drooping clusters of narrow white petals in late spring; dark blue fruits on female trees; opposite simple leaves.
+
+## Soil and moisture
+
+Moist, well-drained, neutral to slightly alkaline tolerated; appreciates organic mulch.
+
+## Wildlife value
+
+Flowers attract pollinators; fruits for birds; also emerald ash borer host—monitor health.
 
 ## Uses and significance
 
-Widely planted as an ornamental for its flowers and form. The tree supports pollinators and provides fruit for birds. It is the state tree of Missouri and a valued native ornamental in eastern landscapes.
+Small specimen tree for fragrant spring display; good under power lines relative to large trees.

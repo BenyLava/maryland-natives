@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getTreeBySlug } from "@/lib/trees";
+import { treeDetailMetaPillClass } from "@/lib/tree-meta-styles";
 
 type PageProps = {
   params: Promise<{ slug: string }>;
@@ -28,8 +29,16 @@ export default async function TreeDetailPage({ params }: PageProps) {
         <p className="font-mono text-sm text-neutral-700">
           {tree.latinName}
         </p>
-        <div className="flex flex-wrap gap-4 text-sm text-neutral-600">
-          <span>Height: {tree.height}</span>
+        <div className="flex flex-wrap items-center gap-3 text-sm text-neutral-600">
+          {tree.sun ? (
+            <span className={treeDetailMetaPillClass}>Sun: {tree.sun}</span>
+          ) : null}
+          {tree.height ? (
+            <span className={treeDetailMetaPillClass}>Height: {tree.height}</span>
+          ) : null}
+          {tree.sun || tree.height ? (
+            <span className="text-neutral-500">·</span>
+          ) : null}
           <span>Region: {tree.region}</span>
         </div>
       </header>

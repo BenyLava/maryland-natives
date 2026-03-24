@@ -1,18 +1,29 @@
 ---
-title: 'White Oak'
-latinName: 'Quercus alba'
-type: 'Deciduous'
-height: '18�30 m'
-region: 'State tree of Maryland; eastern & central North America'
+title: "White Oak"
+latinName: "Quercus alba"
+type: "Deciduous"
+height: "60–100 ft"
+region: "State tree of Maryland; eastern & central North America"
+sun: "full sun"
 ---
-
-White oak is the official state tree of Maryland and one of the most important oaks in eastern North America. It has pale gray bark, rounded leaf lobes, and a broad, dignified crown.
+White Oak (Quercus alba) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, white oaks grow in upland forests, along ridges, and in well-drained fields and parks. They favor slightly acidic, moderately moist soils but can tolerate a range of conditions.
+Maryland’s state tree—upland forests, parks, and well-drained neighborhoods statewide.
+
+## Identification
+
+Rounded leaf lobes without bristle tips; light gray scaly plates on bark; acorns sweet enough to eat raw when ripe.
+
+## Soil and moisture
+
+Deep, well-drained, mildly acidic to neutral; intolerant of compacted high-pH islands without soil remediation.
+
+## Wildlife value
+
+Acorns are a keystone food; many insects on foliage feed nestling songbirds; long-lived cavity trees.
 
 ## Uses and significance
 
-White oak wood is strong and durable, used historically for shipbuilding, barrels, and flooring. Its acorns feed many birds and mammals, and old white oaks often become local landmarks.
-
+Premier wildlife and timber oak; legacy shade tree—plan for centuries-scale longevity.

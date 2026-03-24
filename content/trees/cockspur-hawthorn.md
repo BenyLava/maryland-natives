@@ -2,16 +2,28 @@
 title: "Cockspur Hawthorn"
 latinName: "Crataegus crus-galli"
 type: "Deciduous"
-height: "4–9 m"
+height: "15–30 ft"
 region: "Eastern North America; Maryland fields and woodland edges"
+sun: "full sun"
 ---
-
-Cockspur hawthorn is a small tree with long, sharp thorns, glossy leaves, and clusters of white flowers followed by small red fruits (haws). The branches are often densely thorny.
+Cockspur Hawthorn (Crataegus crus-galli) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, cockspur hawthorn grows in old fields, pastures, and along woodland edges, often on dry or rocky soils. It forms thickets and is tolerant of poor, compacted, or alkaline conditions.
+Old fields, pastures, and woodland edges with full sun; thorny, wide-spreading crowns.
+
+## Identification
+
+Long thorns; white spring flowers; red haws in fall; variable leaf shapes on same tree.
+
+## Soil and moisture
+
+Tolerates poor, compacted soils; drought-tolerant once established.
+
+## Wildlife value
+
+Haws feed birds through winter; thorny structure provides nest protection.
 
 ## Uses and significance
 
-The fruits are eaten by birds and can be used in jellies. The tree provides dense cover and nesting sites; thorns deter browsing. Cockspur hawthorn is sometimes planted for wildlife and as a small ornamental tree.
+Farm hedgerows and wildlife barriers; ornamental with caution near walkways due to thorns.

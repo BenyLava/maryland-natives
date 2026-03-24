@@ -2,16 +2,28 @@
 title: "Mockernut Hickory"
 latinName: "Carya tomentosa"
 type: "Deciduous"
-height: "18–27 m"
+height: "60–90 ft"
 region: "Eastern North America; Maryland dry to moist uplands"
+sun: "full sun"
 ---
-
-Mockernut hickory is a large tree with compound leaves that are fuzzy underneath, thick husks, and hard, edible nuts. The bark is dark gray and deeply furrowed.
+Mockernut Hickory (Carya tomentosa) is a native tree in Maryland (Deciduous). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, mockernut hickory grows on dry ridges, slopes, and in mixed hardwood forests across the state. It prefers well-drained, often acidic soils and is common in oak-hickory stands.
+Dry to moist upland mixed forests; one of the common hickories on Maryland slopes.
+
+## Identification
+
+Seven to nine leaflets with tufts of hair on rachis and leaf undersides; thick-husked nuts with tiny sweet kernel—hard to crack.
+
+## Soil and moisture
+
+Well-drained, deep loam over rock; tolerates slopes.
+
+## Wildlife value
+
+Mast for squirrels and chipmunks; high-fat nuts important before winter.
 
 ## Uses and significance
 
-The wood is used for tool handles, flooring, and smoking meat. Nuts are eaten by people and wildlife. Mockernut is an important component of upland hardwood forests and provides mast for many species.
+Strong timber for tools and flooring; long-lived shade for large properties.

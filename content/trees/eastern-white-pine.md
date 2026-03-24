@@ -2,16 +2,28 @@
 title: "Eastern White Pine"
 latinName: "Pinus strobus"
 type: "Evergreen"
-height: "25–40 m"
+height: "80–130 ft"
 region: "Eastern North America; Maryland mountains and cool sites"
+sun: "full sun"
 ---
-
-Eastern white pine is a tall conifer with soft, flexible needles in bundles of five and long, cylindrical cones. It was heavily logged in colonial times for ship masts and lumber.
+Eastern White Pine (Pinus strobus) is a native tree in Maryland (Evergreen). The sections below summarize where it grows, how to recognize it, and how it supports local ecosystems.
 
 ## Habitat and range
 
-In Maryland, white pine grows in cool, moist woods in the mountains and in scattered piedmont sites, often on north-facing slopes or in ravines. It prefers well-drained, acidic soils.
+Formerly more widespread; today in plantations, moist cool valleys, and mixed woods—especially western Maryland.
+
+## Identification
+
+Soft needles in bundles of five; long cylindrical cones with thick resin; tall straight trunk when open-grown.
+
+## Soil and moisture
+
+Moist, acidic, well-drained soils; intolerant of compaction and salt spray without care.
+
+## Wildlife value
+
+Cover for birds; seeds for crossbills and small mammals; bark browsed by porcupines.
 
 ## Uses and significance
 
-The wood is used for lumber, millwork, and construction. White pine is planted for timber and as an ornamental. It provides cover and seeds for wildlife and is a signature tree of northern and montane forests.
+Fast softwood timber; evergreen screens; do not plant under overhead lines.
