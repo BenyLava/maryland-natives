@@ -2,6 +2,7 @@
 
 import { useMemo, useState } from "react";
 import Link from "next/link";
+import { useRouter } from "next/navigation";
 import type { QuizQuestion } from "./page";
 
 type Props = {
@@ -9,6 +10,7 @@ type Props = {
 };
 
 export default function QuizClient({ questions }: Props) {
+  const router = useRouter();
   const [answers, setAnswers] = useState<Record<string, string>>({});
   const [submitted, setSubmitted] = useState(false);
   const [score, setScore] = useState(0);
@@ -58,7 +60,10 @@ export default function QuizClient({ questions }: Props) {
           {submitted && (
             <button
               type="button"
-              onClick={() => window.location.reload()}
+              onClick={() => {
+                setShowResult(false);
+                router.refresh();
+              }}
               className="inline-flex items-center rounded-full bg-neutral-900 px-4 py-1.5 text-[11px] font-semibold text-white shadow-sm transition hover:bg-neutral-800"
             >
               Restart quiz

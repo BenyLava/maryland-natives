@@ -1,6 +1,10 @@
+import { randomUUID } from "crypto";
 import fs from "fs";
 import path from "path";
 import QuizClient from "./QuizClient";
+
+/** Build a fresh random 10-question set on every request (not at build time). */
+export const dynamic = "force-dynamic";
 
 export type QuizOption = {
   label: string;
@@ -92,9 +96,10 @@ function shuffleAndTake<T>(items: T[], count: number): T[] {
 export default function QuizPage() {
   const allQuestions = loadQuizQuestions();
   const questions = shuffleAndTake(allQuestions, 10);
+  const sessionKey = randomUUID();
 
   return (
-    <QuizClient questions={questions} />
+    <QuizClient key={sessionKey} questions={questions} />
   );
 }
 
