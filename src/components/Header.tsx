@@ -6,6 +6,7 @@ import Image from "next/image";
 
 const navLinks = [
   { href: "/", label: "Home" },
+  { href: "/about", label: "About" },
   { href: "/trees", label: "Tree Catalog" },
   { href: "/articles", label: "Articles" },
   { href: "/quiz", label: "Quiz" },
@@ -76,7 +77,7 @@ export default function Header() {
 
       {/* Mobile dropdown - visible when menuOpen */}
       <div
-        className={`overflow-hidden transition-[max-height,opacity] duration-200 ease-out md:hidden ${menuOpen ? "max-h-48 opacity-100" : "max-h-0 opacity-0"}`}
+        className={`overflow-hidden transition-[max-height,opacity] duration-200 ease-out md:hidden ${menuOpen ? "max-h-64 opacity-100" : "max-h-0 opacity-0"}`}
         style={{ backgroundColor: "#D8CCA3" }}
       >
         <nav

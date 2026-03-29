@@ -14,7 +14,7 @@ Old fields, edges, and sandy pine woods; root-suckering thickets common.
 
 ## Identification
 
-Three leaf forms on one tree—unlobed, mitten, and three-lobed; aromatic bark and leaves; dark blue berries on female plants.
+Three leaf forms on one tree, unlobed, mitten, and three-lobed; aromatic bark and leaves; dark blue berries on female plants.
 
 ## Soil and moisture
 
@@ -26,4 +26,4 @@ Berries for birds; host for spicebush swallowtail; early spring flowers for poll
 
 ## Uses and significance
 
-Pioneer restoration; ornamental fall color; historical culinary use of parts is unsafe—do not self-medicate.
+Pioneer restoration; ornamental fall color; historical culinary use of parts is unsafe, do not self-medicate.

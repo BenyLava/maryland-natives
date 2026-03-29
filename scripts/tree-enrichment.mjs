@@ -6,7 +6,7 @@ export const enrichments = {
   "american-beech": {
     sun: "full sun",
     habitat:
-      "Rich, mesic forests across Maryland—often with sugar maple, oak, and tulip poplar on slopes and in cool valleys.",
+      "Rich, mesic forests across Maryland, often with sugar maple, oak, and tulip poplar on slopes and in cool valleys.",
     identification:
       "Smooth, steel-gray bark (often carved with initials in parks); long elliptical leaves with straight veins ending in teeth; long, narrow buds; papery marcescent leaves may cling on young trees through winter.",
     soil:
@@ -47,7 +47,7 @@ export const enrichments = {
     habitat:
       "Acidic woods, coastal plain forests, and sandy pine barrens; often seen as understory in the wild, but open-grown plants are common in landscapes and edges.",
     identification:
-      "Spiny, leathery evergreen leaves; dioecious—females bear red berries with a pollenizer male nearby; gray, smoothish bark.",
+      "Spiny, leathery evergreen leaves; dioecious, females bear red berries with a pollenizer male nearby; gray, smoothish bark.",
     soil:
       "Moist, acidic, organic-rich soils; tolerates some drought once established but not wet, alkaline clay. Full sun gives the densest habit and heaviest berry set; partial shade is tolerated where it also grows naturally.",
     wildlife:
@@ -71,7 +71,7 @@ export const enrichments = {
   "american-sycamore": {
     sun: "full sun",
     habitat:
-      "Riverbanks, floodplains, and low fields—often the palest trunks visible along Maryland waterways.",
+      "Riverbanks, floodplains, and low fields, often the palest trunks visible along Maryland waterways.",
     identification:
       "Mottled exfoliating bark on upper trunk and branches; large maple-like leaves with three to five lobes; spherical fruit balls persist into winter.",
     soil:
@@ -88,11 +88,11 @@ export const enrichments = {
     identification:
       "Strappy yellow autumn flowers with four narrow petals; broad leaves with uneven bases and wavy teeth; woody capsules eject seeds explosively.",
     soil:
-      "Moist, acidic, well-drained humus; a true woodland understory plant—part sun or light shade matches where it thrives; full sun often stresses plants in warm exposures.",
+      "Moist, acidic, well-drained humus; a true woodland understory plant, part sun or light shade matches where it thrives; full sun often stresses plants in warm exposures.",
     wildlife:
       "Late nectar for insects when little else blooms; seeds eaten by birds and small mammals.",
     uses:
-      "Native ornamental for shade; traditional folk uses—verify modern safety before any medicinal use.",
+      "Native ornamental for shade; traditional folk uses, verify modern safety before any medicinal use.",
   },
   "atlantic-white-cedar": {
     sun: "full sun",
@@ -136,7 +136,7 @@ export const enrichments = {
   "black-cherry": {
     sun: "full sun",
     habitat:
-      "Old fields, edges, and disturbed woods—often among the first hardwood pioneers; also in mature forest gaps.",
+      "Old fields, edges, and disturbed woods, often among the first hardwood pioneers; also in mature forest gaps.",
     identification:
       "Dark, flaky bark on older trunks; long narrow leaves with fine teeth; white spring flower racemes; dark purple cherries in summer.",
     soil:
@@ -157,7 +157,7 @@ export const enrichments = {
     wildlife:
       "Excellent spring nectar for bees; seeds sparingly used by birds; can form dense thickets for cover.",
     uses:
-      "Erosion control and mine reclamation; rot-resistant posts; manage spread—can be aggressive outside native range.",
+      "Erosion control and mine reclamation; rot-resistant posts; manage spread, can be aggressive outside native range.",
   },
   "black-maple": {
     sun: "full sun",
@@ -177,7 +177,7 @@ export const enrichments = {
     habitat:
       "Dry ridges, barrens, and upland oak forests; common on thin soils in Maryland piedmont and mountains.",
     identification:
-      "Red oak group—bristle-tipped leaf lobes; dark blocky bark; acorns with inner hairs in the cup.",
+      "Red oak group, bristle-tipped leaf lobes; dark blocky bark; acorns with inner hairs in the cup.",
     soil:
       "Well-drained, acidic, often droughty; tolerates low fertility once established.",
     wildlife:
@@ -192,7 +192,7 @@ export const enrichments = {
     identification:
       "Compound aromatic leaves; round green husks enclosing ridged nuts; dark deeply furrowed bark.",
     soil:
-      "Deep, fertile, well-drained soils; juglone in roots limits many companion plants—plan accordingly.",
+      "Deep, fertile, well-drained soils; juglone in roots limits many companion plants, plan accordingly.",
     wildlife:
       "Nuts prized by squirrels and blue jays; supports many caterpillar species for breeding birds.",
     uses:
@@ -214,7 +214,7 @@ export const enrichments = {
   "blackjack-oak": {
     sun: "full sun",
     habitat:
-      "Dry barrens, sandy ridges, and poor uplands—more common toward Maryland’s southern coastal plain and piedmont edges.",
+      "Dry barrens, sandy ridges, and poor uplands, more common toward Maryland’s southern coastal plain and piedmont edges.",
     identification:
       "Broad, three-lobed leaves resembling a spatula; shrubby to small-tree form; dark scaly bark.",
     soil:
@@ -227,7 +227,7 @@ export const enrichments = {
   "blackgum": {
     sun: "full sun",
     habitat:
-      "Swamps, pocosins, and moist flats as well as drier uplands—one of the most site-flexible eastern trees.",
+      "Swamps, pocosins, and moist flats as well as drier uplands, one of the most site-flexible eastern trees.",
     identification:
       "Glossy leaves often with a few teeth near the tip; brilliant red fall color; blue-black drupes on female trees; horizontal branches.",
     soil:
@@ -253,11 +253,11 @@ export const enrichments = {
   "canadian-serviceberry": {
     sun: "full sun",
     habitat:
-      "Wet thickets, stream edges, and low woods—often earlier blooming than downy serviceberry.",
+      "Wet thickets, stream edges, and low woods, often earlier blooming than downy serviceberry.",
     identification:
       "White early-spring flowers in clusters; edible June berries; smooth to lightly hairy young leaves depending on form.",
     soil:
-      "Moist to wet acidic soils; full sun improves flowering and fruit if the root zone stays moist—partial shade along margins still works.",
+      "Moist to wet acidic soils; full sun improves flowering and fruit if the root zone stays moist, partial shade along margins still works.",
     wildlife:
       "Berries for catbirds, robins, and mammals; flowers for early pollinators.",
     uses:
@@ -266,9 +266,9 @@ export const enrichments = {
   "chestnut-oak": {
     sun: "full sun",
     habitat:
-      "Dry rocky ridges and mountain slopes—dominant “chestnut oak” belt vegetation in parts of western Maryland.",
+      "Dry rocky ridges and mountain slopes, dominant “chestnut oak” belt vegetation in parts of western Maryland.",
     identification:
-      "White oak group—rounded leaf teeth without bristles; blocky dark bark; acorns large in shallow cups.",
+      "White oak group, rounded leaf teeth without bristles; blocky dark bark; acorns large in shallow cups.",
     soil:
       "Thin, rocky, well-drained, acidic; tolerates drought and exposure.",
     wildlife:
@@ -322,7 +322,7 @@ export const enrichments = {
     identification:
       "White racemes in early spring; oval leaves often hairy when young; striped bark on older trunks; sweet Juneberries.",
     soil:
-      "Moist, well-drained, acidic to neutral forest soils; full sun gives the heaviest flower and berry crops with steady moisture—partial shade is tolerated.",
+      "Moist, well-drained, acidic to neutral forest soils; full sun gives the heaviest flower and berry crops with steady moisture, partial shade is tolerated.",
     wildlife:
       "Early nectar and pollen; berries for birds and mammals; host to several butterfly larvae.",
     uses:
@@ -331,7 +331,7 @@ export const enrichments = {
   "eastern-hemlock": {
     sun: "full shade",
     habitat:
-      "Cool north-facing ravines, stream corridors, and mountain slopes—Maryland’s hemlock stands are ecologically precious.",
+      "Cool north-facing ravines, stream corridors, and mountain slopes, Maryland’s hemlock stands are ecologically precious.",
     identification:
       "Flat needles in two ranks; tiny pendant cones; fine-textured evergreen foliage; needles often have two white stomatal bands beneath.",
     soil:
@@ -361,7 +361,7 @@ export const enrichments = {
     identification:
       "Magenta pea-flowers on bare wood in spring; heart-shaped leaves; flat brown pods persist into winter.",
     soil:
-      "Moist, well-drained soils. More sun can mean a heavier spring flower show, but in hot Maryland summers exposed full-sun sites often mean more leaf scorch, drought stress, and shortened tree life—morning sun with afternoon shade, or high filtered light, is usually a better balance than blazing all-day sun.",
+      "Moist, well-drained soils. More sun can mean a heavier spring flower show, but in hot Maryland summers exposed full-sun sites often mean more leaf scorch, drought stress, and shortened tree life, morning sun with afternoon shade, or high filtered light, is usually a better balance than blazing all-day sun.",
     wildlife:
       "Early nectar for bees; flowers visited by specialist bees; cover when multi-stemmed.",
     uses:
@@ -370,7 +370,7 @@ export const enrichments = {
   "eastern-white-pine": {
     sun: "full sun",
     habitat:
-      "Formerly more widespread; today in plantations, moist cool valleys, and mixed woods—especially western Maryland.",
+      "Formerly more widespread; today in plantations, moist cool valleys, and mixed woods, especially western Maryland.",
     identification:
       "Soft needles in bundles of five; long cylindrical cones with thick resin; tall straight trunk when open-grown.",
     soil:
@@ -396,7 +396,7 @@ export const enrichments = {
   "green-ash": {
     sun: "full sun",
     habitat:
-      "Floodplains, swamps, and river terraces—often alongside silver maple and sycamore.",
+      "Floodplains, swamps, and river terraces, often alongside silver maple and sycamore.",
     identification:
       "Opposite compound leaves with seven to nine stalked leaflets; gray furrowed bark; dioecious flowers before leaves.",
     soil:
@@ -404,7 +404,7 @@ export const enrichments = {
     wildlife:
       "Seeds eaten by waterfowl and songbirds; foliage supports caterpillars when trees remain healthy.",
     uses:
-      "Riparian restoration—use emerald ash borer–resistant selections or diversify species as EAB persists.",
+      "Riparian restoration, use emerald ash borer–resistant selections or diversify species as EAB persists.",
   },
   "hazel-alder": {
     sun: "full sun",
@@ -435,7 +435,7 @@ export const enrichments = {
   "loblolly-pine": {
     sun: "full sun",
     habitat:
-      "Coastal plain pine woods, old fields, and plantations—Maryland’s common lowland pine.",
+      "Coastal plain pine woods, old fields, and plantations, Maryland’s common lowland pine.",
     identification:
       "Needles in bundles of three; large cones with sharp prickles; rapid height growth in youth.",
     soil:
@@ -450,7 +450,7 @@ export const enrichments = {
     habitat:
       "Dry to moist upland mixed forests; one of the common hickories on Maryland slopes.",
     identification:
-      "Seven to nine leaflets with tufts of hair on rachis and leaf undersides; thick-husked nuts with tiny sweet kernel—hard to crack.",
+      "Seven to nine leaflets with tufts of hair on rachis and leaf undersides; thick-husked nuts with tiny sweet kernel, hard to crack.",
     soil:
       "Well-drained, deep loam over rock; tolerates slopes.",
     wildlife:
@@ -463,7 +463,7 @@ export const enrichments = {
     habitat:
       "One of the most common canopy oaks in Maryland upland forests and suburban lots.",
     identification:
-      "Red oak group—bristle-tipped lobes; bark with smooth stripes on upper trunk, rough below; acorns squat with shallow cup.",
+      "Red oak group, bristle-tipped lobes; bark with smooth stripes on upper trunk, rough below; acorns squat with shallow cup.",
     soil:
       "Well-drained, acidic to slightly alkaline; tolerates clay if not waterlogged.",
     wildlife:
@@ -502,9 +502,9 @@ export const enrichments = {
     habitat:
       "Old fields, woodland edges, and sandy roadsides; more common toward the warmer parts of Maryland.",
     identification:
-      "Blocky dark bark resembling alligator hide; oval leaves; dioecious—females bear orange sweet fruit when ripe.",
+      "Blocky dark bark resembling alligator hide; oval leaves; dioecious, females bear orange sweet fruit when ripe.",
     soil:
-      "Tolerates poor, dry soils; taproot makes transplanting tricky—start small.",
+      "Tolerates poor, dry soils; taproot makes transplanting tricky, start small.",
     wildlife:
       "Fruit critical for mammals and many birds after frost; supports silk moth larvae.",
     uses:
@@ -526,7 +526,7 @@ export const enrichments = {
   "pin-oak": {
     sun: "full sun",
     habitat:
-      "Natural in poorly drained flats; widely planted in lawns—needs acidic soil to avoid chlorosis.",
+      "Natural in poorly drained flats; widely planted in lawns, needs acidic soil to avoid chlorosis.",
     identification:
       "Lower branches droop, middle horizontal, upper upright (“pin” silhouette); deeply lobed leaves with bristle tips; small acorns.",
     soil:
@@ -539,7 +539,7 @@ export const enrichments = {
   "post-oak": {
     sun: "full sun",
     habitat:
-      "Dry ridges, barrens, and sandy pine-oak woods—southern piedmont and coastal plain edge in Maryland.",
+      "Dry ridges, barrens, and sandy pine-oak woods, southern piedmont and coastal plain edge in Maryland.",
     identification:
       "Cross-shaped or three-lobed leathery leaves; dense rounded crown; blocky bark.",
     soil:
@@ -552,7 +552,7 @@ export const enrichments = {
   "pumpkin-ash": {
     sun: "full sun",
     habitat:
-      "Deep swamps and river bottoms on the coastal plain—often with buttressed trunks in standing water.",
+      "Deep swamps and river bottoms on the coastal plain, often with buttressed trunks in standing water.",
     identification:
       "Large compound leaves with thick stalks; swollen trunk base in flooded sites; similar to other ashes when young.",
     soil:
@@ -560,12 +560,12 @@ export const enrichments = {
     wildlife:
       "Wetland structure for herons, wood ducks, and amphibians; seeds used when produced.",
     uses:
-      "Wetland forest restoration; prioritize EAB-resistant planning—species is highly vulnerable.",
+      "Wetland forest restoration; prioritize EAB-resistant planning, species is highly vulnerable.",
   },
   "red-maple": {
     sun: "full sun",
     habitat:
-      "Swamps to dry slopes—one of Maryland’s most widespread trees due to plasticity and disturbance response.",
+      "Swamps to dry slopes, one of Maryland’s most widespread trees due to plasticity and disturbance response.",
     identification:
       "Opposite leaves with three to five lobes and red petioles; early red flowers in late winter; samaras in spring.",
     soil:
@@ -634,7 +634,7 @@ export const enrichments = {
     identification:
       "Five large leaflets; long plates of peeling bark; sweet nuts prized for baking and wildlife.",
     soil:
-      "Deep, moist, well-drained loam; long taproot—plant young.",
+      "Deep, moist, well-drained loam; long taproot, plant young.",
     wildlife:
       "High-energy nuts; bark plates shelter bats when loose; many caterpillar species.",
     uses:
@@ -647,11 +647,11 @@ export const enrichments = {
     identification:
       "Deeply five-lobed leaves silvery beneath; large soft wood; winged samaras spin to earth in spring.",
     soil:
-      "Tolerates wet, heavy soils and occasional inundation; surface roots common—keep away from pavement.",
+      "Tolerates wet, heavy soils and occasional inundation; surface roots common, keep away from pavement.",
     wildlife:
       "Early spring flowers for bees; cavities in old trees for raccoons and owls.",
     uses:
-      "Quick riparian cover; not ideal near buildings due to limb breakage—prune for structure.",
+      "Quick riparian cover; not ideal near buildings due to limb breakage, prune for structure.",
   },
   "slippery-elm": {
     sun: "full sun",
@@ -664,7 +664,7 @@ export const enrichments = {
     wildlife:
       "Seeds and buds for birds; host for mourning cloak and other butterflies.",
     uses:
-      "Restoration plantings; inner bark has documented traditional uses—consult reliable sources.",
+      "Restoration plantings; inner bark has documented traditional uses, consult reliable sources.",
   },
   "smooth-sumac": {
     sun: "full sun",
@@ -682,7 +682,7 @@ export const enrichments = {
   "sourwood": {
     sun: "part sun",
     habitat:
-      "Acidic woodland slopes and edges—often leaning from understory toward light gaps.",
+      "Acidic woodland slopes and edges, often leaning from understory toward light gaps.",
     identification:
       "Drooping clusters of white lily-of-the-valley-like flowers; sour-tasting leaves; brilliant red fall foliage.",
     soil:
@@ -716,12 +716,12 @@ export const enrichments = {
     wildlife:
       "Winter finches and others eat seeds; quick cover after disturbance.",
     uses:
-      "Erosion control on cuts; naturalistic colonies—give room to spread.",
+      "Erosion control on cuts; naturalistic colonies, give room to spread.",
   },
   "sugar-maple": {
     sun: "full sun",
     habitat:
-      "Cool northern slopes and rich coves—common in western Maryland hardwood forests.",
+      "Cool northern slopes and rich coves, common in western Maryland hardwood forests.",
     identification:
       "Five-lobed leaves with few teeth; brilliant fall color; paired winged samaras; smooth gray bark when young becoming platy.",
     soil:
@@ -738,7 +738,7 @@ export const enrichments = {
     identification:
       "Aromatic leaves white beneath; creamy cupped flowers in late spring to summer; multi-stem habit common.",
     soil:
-      "Moist to wet acidic soils; full sun is fine where the root zone never dries—some afternoon shade helps on the hottest, drier microsites.",
+      "Moist to wet acidic soils; full sun is fine where the root zone never dries, some afternoon shade helps on the hottest, drier microsites.",
     wildlife:
       "Beetles and bees pollinate flowers; seeds used by songbirds.",
     uses:
@@ -760,7 +760,7 @@ export const enrichments = {
   "swamp-chestnut-oak": {
     sun: "full sun",
     habitat:
-      "Bottomlands and rich hammocks—large white oak group species of southeastern floodplains reaching Maryland’s warmer counties.",
+      "Bottomlands and rich hammocks, large white oak group species of southeastern floodplains reaching Maryland’s warmer counties.",
     identification:
       "Large oblong leaves with rounded teeth; acorns large in shallow cups; tight gray bark on mature trunks.",
     soil:
@@ -773,13 +773,13 @@ export const enrichments = {
   "swamp-white-oak": {
     sun: "full sun",
     habitat:
-      "Floodplains and wet terraces; also tolerates moist uplands—popular for urban tough sites when soil is acidic.",
+      "Floodplains and wet terraces; also tolerates moist uplands, popular for urban tough sites when soil is acidic.",
     identification:
       "White oak group with rounded lobes; undersides of leaves often fuzzy; acorns on long stalks.",
     soil:
       "Moist to wet, poorly drained phases OK; avoid high pH without intervention.",
     wildlife:
-      "Acorns sprout in fall—important for germination-dependent wildlife cycles; cavities later.",
+      "Acorns sprout in fall, important for germination-dependent wildlife cycles; cavities later.",
     uses:
       "Street tree selections available; wetland mitigation; wildlife oak plantings.",
   },
@@ -788,18 +788,18 @@ export const enrichments = {
     habitat:
       "Old fields, edges, and sandy pine woods; root-suckering thickets common.",
     identification:
-      "Three leaf forms on one tree—unlobed, mitten, and three-lobed; aromatic bark and leaves; dark blue berries on female plants.",
+      "Three leaf forms on one tree, unlobed, mitten, and three-lobed; aromatic bark and leaves; dark blue berries on female plants.",
     soil:
       "Well-drained, acidic, often sandy; tolerates poor fertility.",
     wildlife:
       "Berries for birds; host for spicebush swallowtail; early spring flowers for pollinators.",
     uses:
-      "Pioneer restoration; ornamental fall color; historical culinary use of parts is unsafe—do not self-medicate.",
+      "Pioneer restoration; ornamental fall color; historical culinary use of parts is unsafe, do not self-medicate.",
   },
   "tulip-poplar": {
     sun: "full sun",
     habitat:
-      "Rich coves and mesic slopes—one of the tallest eastern hardwoods and common in Maryland forests.",
+      "Rich coves and mesic slopes, one of the tallest eastern hardwoods and common in Maryland forests.",
     identification:
       "Unique tulip-shaped summer flowers with orange and green; leaves four-lobed like silhouettes; tall straight column in youth.",
     soil:
@@ -825,7 +825,7 @@ export const enrichments = {
   "white-ash": {
     sun: "full sun",
     habitat:
-      "Rich moist slopes and mixed forests; populations devastated by emerald ash borer—plant only as part of diverse mixes.",
+      "Rich moist slopes and mixed forests; populations devastated by emerald ash borer, plant only as part of diverse mixes.",
     identification:
       "Opposite compound leaves with five to nine stalkless leaflets; diamond-patterned bark on mature trees; paddle-shaped samaras.",
     soil:
@@ -844,14 +844,14 @@ export const enrichments = {
     soil:
       "Moist, well-drained, neutral to slightly alkaline tolerated; appreciates organic mulch.",
     wildlife:
-      "Flowers attract pollinators; fruits for birds; also emerald ash borer host—monitor health.",
+      "Flowers attract pollinators; fruits for birds; also emerald ash borer host, monitor health.",
     uses:
       "Small specimen tree for fragrant spring display; good under power lines relative to large trees.",
   },
   "white-oak": {
     sun: "full sun",
     habitat:
-      "Maryland’s state tree—upland forests, parks, and well-drained neighborhoods statewide.",
+      "Maryland’s state tree, upland forests, parks, and well-drained neighborhoods statewide.",
     identification:
       "Rounded leaf lobes without bristle tips; light gray scaly plates on bark; acorns sweet enough to eat raw when ripe.",
     soil:
@@ -859,7 +859,7 @@ export const enrichments = {
     wildlife:
       "Acorns are a keystone food; many insects on foliage feed nestling songbirds; long-lived cavity trees.",
     uses:
-      "Premier wildlife and timber oak; legacy shade tree—plan for centuries-scale longevity.",
+      "Premier wildlife and timber oak; legacy shade tree, plan for centuries-scale longevity.",
   },
   "willow-oak": {
     sun: "full sun",
@@ -890,14 +890,14 @@ export const enrichments = {
   "yellow-buckeye": {
     sun: "full sun",
     habitat:
-      "Cove hardwoods and rich mountain slopes—Maryland’s native large buckeye in cooler counties.",
+      "Cove hardwoods and rich mountain slopes, Maryland’s native large buckeye in cooler counties.",
     identification:
-      "Palmately compound leaves with five leaflets; yellow flower panicles; smooth chestnut-like capsules—seeds toxic if eaten raw.",
+      "Palmately compound leaves with five leaflets; yellow flower panicles; smooth chestnut-like capsules, seeds toxic if eaten raw.",
     soil:
       "Deep, moist, well-drained, fertile; intolerant of drought and salt.",
     wildlife:
       "Hummingbirds visit flowers; nuts used sparingly by rodents when accessible.",
     uses:
-      "Shade for large acidic lawns; spectacular flowers—keep fallen fruit away from pets and children.",
+      "Shade for large acidic lawns; spectacular flowers, keep fallen fruit away from pets and children.",
   },
 };

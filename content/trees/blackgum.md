@@ -10,7 +10,7 @@ Blackgum (Nyssa sylvatica) is a native tree in Maryland (Deciduous). The section
 
 ## Habitat and range
 
-Swamps, pocosins, and moist flats as well as drier uplands—one of the most site-flexible eastern trees.
+Swamps, pocosins, and moist flats as well as drier uplands, one of the most site-flexible eastern trees.
 
 ## Identification
 

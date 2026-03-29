@@ -14,7 +14,7 @@ Dry ridges, barrens, and upland oak forests; common on thin soils in Maryland pi
 
 ## Identification
 
-Red oak group—bristle-tipped leaf lobes; dark blocky bark; acorns with inner hairs in the cup.
+Red oak group, bristle-tipped leaf lobes; dark blocky bark; acorns with inner hairs in the cup.
 
 ## Soil and moisture
 

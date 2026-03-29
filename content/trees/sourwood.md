@@ -10,7 +10,7 @@ Sourwood (Oxydendrum arboreum) is a native tree in Maryland (Deciduous). The sec
 
 ## Habitat and range
 
-Acidic woodland slopes and edges—often leaning from understory toward light gaps.
+Acidic woodland slopes and edges, often leaning from understory toward light gaps.
 
 ## Identification
 

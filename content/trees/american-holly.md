@@ -14,7 +14,7 @@ Acidic woods, coastal plain forests, and sandy pine barrens; often seen as under
 
 ## Identification
 
-Spiny, leathery evergreen leaves; dioecious—females bear red berries with a pollenizer male nearby; gray, smoothish bark.
+Spiny, leathery evergreen leaves; dioecious, females bear red berries with a pollenizer male nearby; gray, smoothish bark.
 
 ## Soil and moisture
 

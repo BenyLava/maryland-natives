@@ -37,7 +37,7 @@ export default function Home() {
               Simple guides to the trees you see every day.
             </h1>
             <p className="max-w-xl text-base leading-relaxed text-neutral-100">
-              Maryland Natives is your guide to native trees of Maryland—explore
+              Maryland Natives is your guide to native trees of Maryland, explore
               the catalog, learn species, and read articles about the state&apos;s
               canopy.
             </p>

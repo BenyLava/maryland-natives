@@ -18,7 +18,7 @@ White racemes in early spring; oval leaves often hairy when young; striped bark 
 
 ## Soil and moisture
 
-Moist, well-drained, acidic to neutral forest soils; full sun gives the heaviest flower and berry crops with steady moisture—partial shade is tolerated.
+Moist, well-drained, acidic to neutral forest soils; full sun gives the heaviest flower and berry crops with steady moisture, partial shade is tolerated.
 
 ## Wildlife value
 

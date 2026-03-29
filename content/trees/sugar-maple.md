@@ -10,7 +10,7 @@ Sugar Maple (Acer saccharum) is a native tree in Maryland (Deciduous). The secti
 
 ## Habitat and range
 
-Cool northern slopes and rich coves—common in western Maryland hardwood forests.
+Cool northern slopes and rich coves, common in western Maryland hardwood forests.
 
 ## Identification
 

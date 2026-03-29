@@ -10,7 +10,7 @@ Eastern White Pine (Pinus strobus) is a native tree in Maryland (Evergreen). The
 
 ## Habitat and range
 
-Formerly more widespread; today in plantations, moist cool valleys, and mixed woods—especially western Maryland.
+Formerly more widespread; today in plantations, moist cool valleys, and mixed woods, especially western Maryland.
 
 ## Identification
 

@@ -26,4 +26,4 @@ Winter finches and others eat seeds; quick cover after disturbance.
 
 ## Uses and significance
 
-Erosion control on cuts; naturalistic colonies—give room to spread.
+Erosion control on cuts; naturalistic colonies, give room to spread.

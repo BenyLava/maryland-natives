@@ -10,7 +10,7 @@ Swamp Chestnut Oak (Quercus michauxii) is a native tree in Maryland (Deciduous).
 
 ## Habitat and range
 
-Bottomlands and rich hammocks—large white oak group species of southeastern floodplains reaching Maryland’s warmer counties.
+Bottomlands and rich hammocks, large white oak group species of southeastern floodplains reaching Maryland’s warmer counties.
 
 ## Identification
 

@@ -10,7 +10,7 @@ American Sycamore (Platanus occidentalis) is a native tree in Maryland (Deciduou
 
 ## Habitat and range
 
-Riverbanks, floodplains, and low fields—often the palest trunks visible along Maryland waterways.
+Riverbanks, floodplains, and low fields, often the palest trunks visible along Maryland waterways.
 
 ## Identification
 

@@ -137,8 +137,9 @@ export default function QuizClient({ questions }: Props) {
               </div>
               {submitted &&
                 question.explanation &&
-                answers[question.id] &&
-                answers[question.id].toUpperCase() !== question.correct && (
+                (!answers[question.id] ||
+                  answers[question.id].toUpperCase() !==
+                    question.correct) && (
                   <p className="mt-2 text-xs leading-relaxed text-neutral-700">
                     <span className="font-semibold text-neutral-900">
                       Explanation:
@@ -153,7 +154,7 @@ export default function QuizClient({ questions }: Props) {
         <div className="flex items-center justify-between pt-2">
           <p className="text-xs text-neutral-600">
             {submitted
-              ? "Correct answers are highlighted in green; your incorrect choices are in red."
+              ? "Correct answers are highlighted in green; incorrect choices in red. Skipped or wrong questions include an explanation."
               : "Select one answer for each question, then submit to see your score."}
           </p>
           <button

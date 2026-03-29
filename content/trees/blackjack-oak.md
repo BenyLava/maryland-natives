@@ -10,7 +10,7 @@ Blackjack Oak (Quercus marilandica) is a native tree in Maryland (Deciduous). Th
 
 ## Habitat and range
 
-Dry barrens, sandy ridges, and poor uplands—more common toward Maryland’s southern coastal plain and piedmont edges.
+Dry barrens, sandy ridges, and poor uplands, more common toward Maryland’s southern coastal plain and piedmont edges.
 
 ## Identification
 

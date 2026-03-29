@@ -10,11 +10,11 @@ Yellow Buckeye (Aesculus flava) is a native tree in Maryland (Deciduous). The se
 
 ## Habitat and range
 
-Cove hardwoods and rich mountain slopes—Maryland’s native large buckeye in cooler counties.
+Cove hardwoods and rich mountain slopes, Maryland’s native large buckeye in cooler counties.
 
 ## Identification
 
-Palmately compound leaves with five leaflets; yellow flower panicles; smooth chestnut-like capsules—seeds toxic if eaten raw.
+Palmately compound leaves with five leaflets; yellow flower panicles; smooth chestnut-like capsules, seeds toxic if eaten raw.
 
 ## Soil and moisture
 
@@ -26,4 +26,4 @@ Hummingbirds visit flowers; nuts used sparingly by rodents when accessible.
 
 ## Uses and significance
 
-Shade for large acidic lawns; spectacular flowers—keep fallen fruit away from pets and children.
+Shade for large acidic lawns; spectacular flowers, keep fallen fruit away from pets and children.

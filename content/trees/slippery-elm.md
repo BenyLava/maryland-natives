@@ -26,4 +26,4 @@ Seeds and buds for birds; host for mourning cloak and other butterflies.
 
 ## Uses and significance
 
-Restoration plantings; inner bark has documented traditional uses—consult reliable sources.
+Restoration plantings; inner bark has documented traditional uses, consult reliable sources.

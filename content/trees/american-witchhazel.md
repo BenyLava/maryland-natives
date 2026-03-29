@@ -18,7 +18,7 @@ Strappy yellow autumn flowers with four narrow petals; broad leaves with uneven 
 
 ## Soil and moisture
 
-Moist, acidic, well-drained humus; a true woodland understory plant—part sun or light shade matches where it thrives; full sun often stresses plants in warm exposures.
+Moist, acidic, well-drained humus; a true woodland understory plant, part sun or light shade matches where it thrives; full sun often stresses plants in warm exposures.
 
 ## Wildlife value
 
@@ -26,4 +26,4 @@ Late nectar for insects when little else blooms; seeds eaten by birds and small 
 
 ## Uses and significance
 
-Native ornamental for shade; traditional folk uses—verify modern safety before any medicinal use.
+Native ornamental for shade; traditional folk uses, verify modern safety before any medicinal use.

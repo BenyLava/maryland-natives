@@ -10,7 +10,7 @@ Green Ash (Fraxinus pennsylvanica) is a native tree in Maryland (Deciduous). The
 
 ## Habitat and range
 
-Floodplains, swamps, and river terraces—often alongside silver maple and sycamore.
+Floodplains, swamps, and river terraces, often alongside silver maple and sycamore.
 
 ## Identification
 
@@ -26,4 +26,4 @@ Seeds eaten by waterfowl and songbirds; foliage supports caterpillars when trees
 
 ## Uses and significance
 
-Riparian restoration—use emerald ash borer–resistant selections or diversify species as EAB persists.
+Riparian restoration, use emerald ash borer–resistant selections or diversify species as EAB persists.

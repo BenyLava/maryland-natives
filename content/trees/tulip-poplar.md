@@ -10,7 +10,7 @@ Tulip Poplar (Liriodendron tulipifera) is a native tree in Maryland (Deciduous).
 
 ## Habitat and range
 
-Rich coves and mesic slopes—one of the tallest eastern hardwoods and common in Maryland forests.
+Rich coves and mesic slopes, one of the tallest eastern hardwoods and common in Maryland forests.
 
 ## Identification
 

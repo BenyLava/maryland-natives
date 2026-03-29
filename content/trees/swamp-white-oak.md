@@ -10,7 +10,7 @@ Swamp White Oak (Quercus bicolor) is a native tree in Maryland (Deciduous). The 
 
 ## Habitat and range
 
-Floodplains and wet terraces; also tolerates moist uplands—popular for urban tough sites when soil is acidic.
+Floodplains and wet terraces; also tolerates moist uplands, popular for urban tough sites when soil is acidic.
 
 ## Identification
 
@@ -22,7 +22,7 @@ Moist to wet, poorly drained phases OK; avoid high pH without intervention.
 
 ## Wildlife value
 
-Acorns sprout in fall—important for germination-dependent wildlife cycles; cavities later.
+Acorns sprout in fall, important for germination-dependent wildlife cycles; cavities later.
 
 ## Uses and significance
 

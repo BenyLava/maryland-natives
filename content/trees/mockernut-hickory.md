@@ -14,7 +14,7 @@ Dry to moist upland mixed forests; one of the common hickories on Maryland slope
 
 ## Identification
 
-Seven to nine leaflets with tufts of hair on rachis and leaf undersides; thick-husked nuts with tiny sweet kernel—hard to crack.
+Seven to nine leaflets with tufts of hair on rachis and leaf undersides; thick-husked nuts with tiny sweet kernel, hard to crack.
 
 ## Soil and moisture
 

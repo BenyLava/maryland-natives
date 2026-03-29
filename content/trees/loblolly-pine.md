@@ -10,7 +10,7 @@ Loblolly Pine (Pinus taeda) is a native tree in Maryland (Evergreen). The sectio
 
 ## Habitat and range
 
-Coastal plain pine woods, old fields, and plantations—Maryland’s common lowland pine.
+Coastal plain pine woods, old fields, and plantations, Maryland’s common lowland pine.
 
 ## Identification
 

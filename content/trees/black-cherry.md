@@ -10,7 +10,7 @@ Black Cherry (Prunus serotina) is a native tree in Maryland (Deciduous). The sec
 
 ## Habitat and range
 
-Old fields, edges, and disturbed woods—often among the first hardwood pioneers; also in mature forest gaps.
+Old fields, edges, and disturbed woods, often among the first hardwood pioneers; also in mature forest gaps.
 
 ## Identification
 

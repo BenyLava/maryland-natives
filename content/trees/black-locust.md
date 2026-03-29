@@ -26,4 +26,4 @@ Excellent spring nectar for bees; seeds sparingly used by birds; can form dense 
 
 ## Uses and significance
 
-Erosion control and mine reclamation; rot-resistant posts; manage spread—can be aggressive outside native range.
+Erosion control and mine reclamation; rot-resistant posts; manage spread, can be aggressive outside native range.

@@ -17,7 +17,7 @@ export default function TreesPage() {
         <p className="max-w-2xl text-sm text-neutral-600">
           Every tree in this catalog is a certified native of Maryland. These
           species are well suited to local conditions and support local
-          wildlife—from birds and pollinators to mammals. If a tree you know
+          wildlife, from birds and pollinators to mammals. If a tree you know
           isn’t listed here, that doesn’t mean it isn’t a Maryland native; this
           list is a curated selection, not a complete inventory.
         </p>

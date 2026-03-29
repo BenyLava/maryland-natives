@@ -10,7 +10,7 @@ Canadian Serviceberry (Amelanchier canadensis) is a native tree in Maryland (Dec
 
 ## Habitat and range
 
-Wet thickets, stream edges, and low woods—often earlier blooming than downy serviceberry.
+Wet thickets, stream edges, and low woods, often earlier blooming than downy serviceberry.
 
 ## Identification
 
@@ -18,7 +18,7 @@ White early-spring flowers in clusters; edible June berries; smooth to lightly h
 
 ## Soil and moisture
 
-Moist to wet acidic soils; full sun improves flowering and fruit if the root zone stays moist—partial shade along margins still works.
+Moist to wet acidic soils; full sun improves flowering and fruit if the root zone stays moist, partial shade along margins still works.
 
 ## Wildlife value
 

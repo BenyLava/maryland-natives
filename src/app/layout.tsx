@@ -49,7 +49,7 @@ export default function RootLayout({
           </main>
           <footer className="border-t border-[#9a8763] bg-[#B09B71] py-6 text-xs text-emerald-50">
             <div className="mx-auto flex max-w-6xl items-center justify-between px-4 sm:px-6 lg:px-8">
-              <span>© {new Date().getFullYear()} Maryland Natives. Designed by Ben O</span>
+              <span>© {new Date().getFullYear()} Maryland Natives. Contact us at <a href="mailto:trees@marylandnatives.com">trees@marylandnatives.com</a></span>
               <span>Inspired by nature and trees everywhere.</span>
             </div>
           </footer>

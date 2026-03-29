@@ -10,7 +10,7 @@ American Beech (Fagus grandifolia) is a native tree in Maryland (Deciduous). The
 
 ## Habitat and range
 
-Rich, mesic forests across Maryland—often with sugar maple, oak, and tulip poplar on slopes and in cool valleys.
+Rich, mesic forests across Maryland, often with sugar maple, oak, and tulip poplar on slopes and in cool valleys.
 
 ## Identification
 

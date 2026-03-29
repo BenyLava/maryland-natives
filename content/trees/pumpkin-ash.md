@@ -10,7 +10,7 @@ Pumpkin Ash (Fraxinus profunda) is a native tree in Maryland (Deciduous). The se
 
 ## Habitat and range
 
-Deep swamps and river bottoms on the coastal plain—often with buttressed trunks in standing water.
+Deep swamps and river bottoms on the coastal plain, often with buttressed trunks in standing water.
 
 ## Identification
 
@@ -26,4 +26,4 @@ Wetland structure for herons, wood ducks, and amphibians; seeds used when produc
 
 ## Uses and significance
 
-Wetland forest restoration; prioritize EAB-resistant planning—species is highly vulnerable.
+Wetland forest restoration; prioritize EAB-resistant planning, species is highly vulnerable.

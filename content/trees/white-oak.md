@@ -10,7 +10,7 @@ White Oak (Quercus alba) is a native tree in Maryland (Deciduous). The sections 
 
 ## Habitat and range
 
-Maryland’s state tree—upland forests, parks, and well-drained neighborhoods statewide.
+Maryland’s state tree, upland forests, parks, and well-drained neighborhoods statewide.
 
 ## Identification
 
@@ -26,4 +26,4 @@ Acorns are a keystone food; many insects on foliage feed nestling songbirds; lon
 
 ## Uses and significance
 
-Premier wildlife and timber oak; legacy shade tree—plan for centuries-scale longevity.
+Premier wildlife and timber oak; legacy shade tree, plan for centuries-scale longevity.

@@ -22,7 +22,7 @@ Moist, well-drained, neutral to slightly alkaline tolerated; appreciates organic
 
 ## Wildlife value
 
-Flowers attract pollinators; fruits for birds; also emerald ash borer host—monitor health.
+Flowers attract pollinators; fruits for birds; also emerald ash borer host, monitor health.
 
 ## Uses and significance
 

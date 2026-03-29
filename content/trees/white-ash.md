@@ -10,7 +10,7 @@ White Ash (Fraxinus americana) is a native tree in Maryland (Deciduous). The sec
 
 ## Habitat and range
 
-Rich moist slopes and mixed forests; populations devastated by emerald ash borer—plant only as part of diverse mixes.
+Rich moist slopes and mixed forests; populations devastated by emerald ash borer, plant only as part of diverse mixes.
 
 ## Identification
 

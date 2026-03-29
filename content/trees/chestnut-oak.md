@@ -10,11 +10,11 @@ Chestnut Oak (Quercus montana) is a native tree in Maryland (Deciduous). The sec
 
 ## Habitat and range
 
-Dry rocky ridges and mountain slopes—dominant “chestnut oak” belt vegetation in parts of western Maryland.
+Dry rocky ridges and mountain slopes, dominant “chestnut oak” belt vegetation in parts of western Maryland.
 
 ## Identification
 
-White oak group—rounded leaf teeth without bristles; blocky dark bark; acorns large in shallow cups.
+White oak group, rounded leaf teeth without bristles; blocky dark bark; acorns large in shallow cups.
 
 ## Soil and moisture
 

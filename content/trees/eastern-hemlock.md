@@ -10,7 +10,7 @@ Eastern Hemlock (Tsuga canadensis) is a native tree in Maryland (Evergreen). The
 
 ## Habitat and range
 
-Cool north-facing ravines, stream corridors, and mountain slopes—Maryland’s hemlock stands are ecologically precious.
+Cool north-facing ravines, stream corridors, and mountain slopes, Maryland’s hemlock stands are ecologically precious.
 
 ## Identification
 

@@ -14,11 +14,11 @@ Old fields, woodland edges, and sandy roadsides; more common toward the warmer p
 
 ## Identification
 
-Blocky dark bark resembling alligator hide; oval leaves; dioecious—females bear orange sweet fruit when ripe.
+Blocky dark bark resembling alligator hide; oval leaves; dioecious, females bear orange sweet fruit when ripe.
 
 ## Soil and moisture
 
-Tolerates poor, dry soils; taproot makes transplanting tricky—start small.
+Tolerates poor, dry soils; taproot makes transplanting tricky, start small.
 
 ## Wildlife value
 

@@ -18,7 +18,7 @@ Five large leaflets; long plates of peeling bark; sweet nuts prized for baking a
 
 ## Soil and moisture
 
-Deep, moist, well-drained loam; long taproot—plant young.
+Deep, moist, well-drained loam; long taproot, plant young.
 
 ## Wildlife value
 

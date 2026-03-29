@@ -18,7 +18,7 @@ Compound aromatic leaves; round green husks enclosing ridged nuts; dark deeply f
 
 ## Soil and moisture
 
-Deep, fertile, well-drained soils; juglone in roots limits many companion plants—plan accordingly.
+Deep, fertile, well-drained soils; juglone in roots limits many companion plants, plan accordingly.
 
 ## Wildlife value
 

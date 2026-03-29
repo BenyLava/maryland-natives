@@ -14,7 +14,7 @@ One of the most common canopy oaks in Maryland upland forests and suburban lots.
 
 ## Identification
 
-Red oak group—bristle-tipped lobes; bark with smooth stripes on upper trunk, rough below; acorns squat with shallow cup.
+Red oak group, bristle-tipped lobes; bark with smooth stripes on upper trunk, rough below; acorns squat with shallow cup.
 
 ## Soil and moisture
 

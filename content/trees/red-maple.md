@@ -10,7 +10,7 @@ Red Maple (Acer rubrum) is a native tree in Maryland (Deciduous). The sections b
 
 ## Habitat and range
 
-Swamps to dry slopes—one of Maryland’s most widespread trees due to plasticity and disturbance response.
+Swamps to dry slopes, one of Maryland’s most widespread trees due to plasticity and disturbance response.
 
 ## Identification
 

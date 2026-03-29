@@ -10,7 +10,7 @@ Pin Oak (Quercus palustris) is a native tree in Maryland (Deciduous). The sectio
 
 ## Habitat and range
 
-Natural in poorly drained flats; widely planted in lawns—needs acidic soil to avoid chlorosis.
+Natural in poorly drained flats; widely planted in lawns, needs acidic soil to avoid chlorosis.
 
 ## Identification
 

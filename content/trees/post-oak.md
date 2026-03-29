@@ -10,7 +10,7 @@ Post Oak (Quercus stellata) is a native tree in Maryland (Deciduous). The sectio
 
 ## Habitat and range
 
-Dry ridges, barrens, and sandy pine-oak woods—southern piedmont and coastal plain edge in Maryland.
+Dry ridges, barrens, and sandy pine-oak woods, southern piedmont and coastal plain edge in Maryland.
 
 ## Identification
 

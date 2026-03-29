@@ -18,7 +18,7 @@ Aromatic leaves white beneath; creamy cupped flowers in late spring to summer; m
 
 ## Soil and moisture
 
-Moist to wet acidic soils; full sun is fine where the root zone never dries—some afternoon shade helps on the hottest, drier microsites.
+Moist to wet acidic soils; full sun is fine where the root zone never dries, some afternoon shade helps on the hottest, drier microsites.
 
 ## Wildlife value
 

@@ -18,7 +18,7 @@ Deeply five-lobed leaves silvery beneath; large soft wood; winged samaras spin t
 
 ## Soil and moisture
 
-Tolerates wet, heavy soils and occasional inundation; surface roots common—keep away from pavement.
+Tolerates wet, heavy soils and occasional inundation; surface roots common, keep away from pavement.
 
 ## Wildlife value
 
@@ -26,4 +26,4 @@ Early spring flowers for bees; cavities in old trees for raccoons and owls.
 
 ## Uses and significance
 
-Quick riparian cover; not ideal near buildings due to limb breakage—prune for structure.
+Quick riparian cover; not ideal near buildings due to limb breakage, prune for structure.
