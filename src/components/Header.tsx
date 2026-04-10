@@ -7,6 +7,8 @@ import Image from "next/image";
 const navLinks = [
   { href: "/", label: "Home" },
   { href: "/about", label: "About" },
+  { href: "/contact", label: "Contact" },
+  { href: "/privacy", label: "Privacy" },
   { href: "/trees", label: "Tree Catalog" },
   { href: "/articles", label: "Articles" },
   { href: "/quiz", label: "Quiz" },
@@ -77,11 +79,15 @@ export default function Header() {
 
       {/* Mobile dropdown - visible when menuOpen */}
       <div
-        className={`overflow-hidden transition-[max-height,opacity] duration-200 ease-out md:hidden ${menuOpen ? "max-h-64 opacity-100" : "max-h-0 opacity-0"}`}
+        className={`transition-[max-height,opacity] duration-200 ease-out md:hidden ${
+          menuOpen
+            ? "max-h-[min(90vh,32rem)] overflow-y-auto opacity-100"
+            : "max-h-0 overflow-hidden opacity-0"
+        }`}
         style={{ backgroundColor: "#D8CCA3" }}
       >
         <nav
-          className="flex flex-col gap-1 border-t border-[#9a8763] px-4 pb-4 pt-2"
+          className="flex flex-col gap-1 border-t border-[#9a8763] px-4 pb-5 pt-3"
           style={{ color: "#557153" }}
         >
           {navLinks.map(({ href, label }) => (

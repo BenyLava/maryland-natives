@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import { renderTreeArticleBody } from "@/lib/render-tree-markdown";
 import { getTreeBySlug } from "@/lib/trees";
 import { treeDetailMetaPillClass } from "@/lib/tree-meta-styles";
 
@@ -14,8 +15,6 @@ export default async function TreeDetailPage({ params }: PageProps) {
   if (!tree) {
     return notFound();
   }
-
-  const lines = tree.content.split("\n");
 
   return (
     <div className="space-y-6">
@@ -44,21 +43,7 @@ export default async function TreeDetailPage({ params }: PageProps) {
       </header>
 
       <article className="prose max-w-none text-sm leading-relaxed text-neutral-800">
-        {lines.map((line, index) => {
-          if (line.startsWith("## ")) {
-            return (
-              <h2 key={index} className="mt-6 text-lg font-semibold text-[#171717]">
-                {line.replace("## ", "")}
-              </h2>
-            );
-          }
-
-          if (!line.trim()) {
-            return <br key={index} />;
-          }
-
-          return <p key={index}>{line}</p>;
-        })}
+        {renderTreeArticleBody(tree.content)}
       </article>
 
       <div>

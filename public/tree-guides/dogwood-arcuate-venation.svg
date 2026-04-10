@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" role="img" aria-labelledby="title3 desc3">
+  <title id="title3">Flowering dogwood leaf venation pattern</title>
+  <desc id="desc3">Diagram of a simple leaf showing secondary veins curving toward the margin.</desc>
+  <rect width="400" height="240" fill="#fafaf8"/>
+  <text x="200" y="22" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" font-weight="600" fill="#262626">Flowering dogwood - arcuate venation (schematic)</text>
+  <g fill="none" stroke="#166534" stroke-width="2" transform="translate(200,130)">
+    <path d="M0 -85 C-45 -75 -55 -20 -42 25 C-35 55 -18 78 0 85 C18 78 35 55 42 25 C55 -20 45 -75 0 -85 Z"/>
+    <path d="M0 -85 L0 85" stroke="#737373" stroke-width="1.2" stroke-dasharray="3 2"/>
+    <path d="M0 -60 C-25 -35 -30 10 -15 45" stroke="#404040"/>
+    <path d="M0 -50 C28 -28 32 15 18 48" stroke="#404040"/>
+    <path d="M0 -35 C-32 -8 -38 38 -22 62" stroke="#404040"/>
+    <path d="M0 -25 C35 0 40 42 24 68" stroke="#404040"/>
+  </g>
+  <text x="200" y="215" text-anchor="middle" font-family="system-ui,sans-serif" font-size="10.5" fill="#525252">Secondary veins arch toward the leaf edge - field mark for Cornus florida.</text>
+</svg>

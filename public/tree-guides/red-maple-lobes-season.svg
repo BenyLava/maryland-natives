@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 220" role="img" aria-labelledby="title2 desc2">
+  <title id="title2">Red maple leaf shape and seasonal timing</title>
+  <desc id="desc2">Three-lobed maple leaf outline and notes for flowers and samaras in the Mid-Atlantic.</desc>
+  <rect width="480" height="220" fill="#fafaf8"/>
+  <text x="240" y="22" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" font-weight="600" fill="#262626">Red maple (Acer rubrum) - quick ID sketch</text>
+  <g fill="none" stroke="#166534" stroke-width="2.2" stroke-linejoin="round" transform="translate(100,48)">
+    <path d="M80 120 L80 55 C80 35 95 25 110 30 C120 22 135 28 140 42 C150 30 170 32 178 48 C188 38 205 42 210 58 C220 48 238 52 242 70 L242 120 Z"/>
+    <path d="M80 120 L80 135" stroke="#404040"/>
+  </g>
+  <text x="240" y="195" text-anchor="middle" font-family="system-ui,sans-serif" font-size="10.5" fill="#525252">Opposite branching; typically 3-5 palmate lobes; sinuses V-shaped to shallow; red petioles common.</text>
+  <text x="240" y="210" text-anchor="middle" font-family="system-ui,sans-serif" font-size="10.5" fill="#525252">Maryland: red flowers often Feb-Mar; paired samaras mature by late spring.</text>
+</svg>

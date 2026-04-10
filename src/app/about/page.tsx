@@ -28,6 +28,16 @@ const siteLinks = [
     title: "Quiz",
     blurb: "Practice questions to sharpen your tree and soil knowledge.",
   },
+  {
+    href: "/contact",
+    title: "Contact",
+    blurb: "Email and guidance on what to include in your message.",
+  },
+  {
+    href: "/privacy",
+    title: "Privacy Policy",
+    blurb: "Cookies, analytics, Google AdSense, and your choices.",
+  },
 ] as const;
 
 export default function AboutPage() {
